@@ -24,7 +24,7 @@ import IconChart from "@/components/icons/icon-chart";
 import IconGoalFlag from "@/components/icons/icon-goal-flag";
 import IconTrophy from "@/components/icons/icon-trophy";
 import IconFile from "@/components/icons/icon-file";
-import { dashboardcolumns, ITable } from "./custom/tables/dashboard-columns";
+import { dashboardcolumns } from "./custom/tables/dashboard-columns";
 import { DailySalesBarChart } from "./custom/charts/daily-sales-bar-chart";
 import { DistributionRadialStackedChart } from "./custom/charts/distribution-radial-stacked-chart";
 import { OnlineSalesAreaChart } from "./custom/charts/online-sales-area-chart";
