@@ -1,5 +1,3 @@
-"use client";
-
 import React, { useState, createContext, useContext } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { IconMenu2, IconX } from "@tabler/icons-react";
@@ -89,7 +87,7 @@ export const DesktopSidebar = ({
     <>
       <motion.div
         className={cn(
-          "h-full px-4 py-4 hidden  md:flex md:flex-col bg-neutral-100 dark:bg-neutral-800 w-[300px] flex-shrink-0",
+          "h-full px-4 py-4 hidden  md:flex md:flex-col bg-white w-[300px] flex-shrink-0",
           className
         )}
         animate={{
