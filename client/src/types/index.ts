@@ -19,6 +19,7 @@ export  interface Metrics {
     weeklyActiveUsers: number;
     monthlyActiveUsers: number;
     retentionRate: number;
+    collectiveEngagementScore: number;
   }
   
 export interface AIInsights {

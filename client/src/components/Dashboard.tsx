@@ -7,7 +7,7 @@ import MetricsOverview from "@/components/MetricOverview";
 import UserTable from "@/components/UserTable";
 import AIRecommendations from "./ai-recommendations";
 
-const CACHE_KEY = "dashboard_data5";
+const CACHE_KEY = "dashboard_data_cache3";
 const CACHE_EXPIRY = 50000 * 60 * 1000; //5 mins
 
 const Dashboard = () => {

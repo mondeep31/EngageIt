@@ -105,12 +105,15 @@ export const getUsers = async (req: Request, res: Response) => {
             })
         );
 
+        // Calculate the collective engagement score
+        const collectiveEngagementScore = Math.round(processedUsers.reduce((total, user) => total + user.engagementScore, 0) / processedUsers.length);
 
         const overviewMetrics = {
             dailyActiveUsers: calculateActiveUsers(users, 1),
             weeklyActiveUsers: calculateActiveUsers(users, 7),
             monthlyActiveUsers: calculateActiveUsers(users, 30),
             retentionRate: calculateRetentionRate(users, 30),
+            collectiveEngagementScore,
             churnPredictionList: processedUsers.filter(user => user.churnRisk)
         };
 
@@ -122,9 +125,6 @@ export const getUsers = async (req: Request, res: Response) => {
             underperformingFeatures
         );
         
-
-
-
         res.json({
             overviewMetrics,
             users: processedUsers,
@@ -139,22 +139,3 @@ export const getUsers = async (req: Request, res: Response) => {
         res.status(500).json({ message: "Server Error" });
     }
 };
-
-
-
-
-//     if (churnRisk) {
-//         if (engagementScore < 10) return `🚨 Offer a free trial extension to ${user.name} (critical risk of churn).`;
-//         if (engagementScore < 20) return `🎯 Provide a step-by-step tutorial to ${user.name} (very low engagement).`;
-//         if (engagementScore < 30) return `⚠️ Send a limited-time discount offer to ${user.name} (low engagement).`;
-//         if (engagementScore < 40) return `📩 Send a personalized "We Miss You" email to ${user.name}.`;
-//         return `🔔 Notify ${user.name} about exclusive new features.`;
-//     }
-
-//     if (engagementScore < 10) return `⚠️ Guide ${user.name} to essential features using tooltips.`;
-//     if (engagementScore < 20) return `📊 Show ${user.name} personalized usage stats to encourage activity.`;
-//     if (engagementScore < 40) return `📈 Offer a rewards-based challenge to ${user.name} to boost engagement.`;
-//     if (engagementScore < 60) return `📝 Recommend curated content to ${user.name} based on past behavior.`;
-//     if (engagementScore < 80) return `🎯 Suggest advanced tutorials to ${user.name} for better usage.`;
-//     return `🏆 Encourage ${user.name} to share feedback and become a power user.`;
-// };
