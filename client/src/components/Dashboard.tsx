@@ -5,9 +5,10 @@ import { fetchUserData } from "@/api/userData";
 import VisualizationChart from "@/components/VisualizationChart";
 import MetricsOverview from "@/components/MetricOverview";
 import UserTable from "@/components/UserTable";
+import AIRecommendations from "./ai-recommendations";
 
-const CACHE_KEY = "dashboard_data";
-const CACHE_EXPIRY = 5000 * 60 * 1000; //5000 mins
+const CACHE_KEY = "dashboard_data5";
+const CACHE_EXPIRY = 50000 * 60 * 1000; //5 mins
 
 const Dashboard = () => {
   const [data, setData] = useState<{
@@ -42,9 +43,13 @@ const Dashboard = () => {
   return (
     <div className="min-h-screen bg-gray-50/50 p-8">
       <PageHeading heading="Customer Engagement Dashboard" />
-      <VisualizationChart />
-      <MetricsOverview overviewMetrics={data.overviewMetrics} />
-      <UserTable users={data.users} />
+      <div className="flex flex-col gap-6">
+        <VisualizationChart />
+
+        <MetricsOverview overviewMetrics={data.overviewMetrics} />
+        <AIRecommendations aiInsights={data.aiInsights} />
+        <UserTable users={data.users} />
+      </div>
     </div>
   );
 };

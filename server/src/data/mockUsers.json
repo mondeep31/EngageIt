@@ -3,166 +3,4785 @@
         "id": 1,
         "name": "User 1",
         "email": "user1@email.com",
-        "last_login_date": "2025-02-10",
-        "number_of_logins": 177,
-        "number_of_features_used": 26,
-        "time_spent_on_platform": 684,
+        "last_login_date": "2025-01-28",
+        "number_of_logins": 103,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 775,
         "features_used": [
-            "Feature I",
-            "Feature Z",
-            "Feature R",
-            "Feature F"
+            "Feature B",
+            "Feature N",
+            "Feature X",
+            "Feature A",
+            "Feature Q"
         ]
     },
     {
         "id": 2,
         "name": "User 2",
         "email": "user2@email.com",
-        "last_login_date": "2025-01-18",
-        "number_of_logins": 99,
-        "number_of_features_used": 7,
-        "time_spent_on_platform": 334,
+        "last_login_date": "2025-01-11",
+        "number_of_logins": 65,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 357,
         "features_used": [
+            "Feature P",
             "Feature Q",
-            "Feature C",
-            "Feature R",
-            "Feature O",
-            "Feature I",
-            "Feature D"
+            "Feature Z",
+            "Feature X"
         ]
     },
     {
         "id": 3,
         "name": "User 3",
         "email": "user3@email.com",
-        "last_login_date": "2025-01-05",
-        "number_of_logins": 77,
-        "number_of_features_used": 15,
-        "time_spent_on_platform": 622,
+        "last_login_date": "2024-10-29",
+        "number_of_logins": 51,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 347,
         "features_used": [
-            "Feature M",
-            "Feature Y",
+            "Feature T",
+            "Feature D",
+            "Feature H",
             "Feature S",
-            "Feature Y",
-            "Feature H"
+            "Feature L",
+            "Feature D"
         ]
     },
     {
         "id": 4,
         "name": "User 4",
         "email": "user4@email.com",
-        "last_login_date": "2024-12-06",
-        "number_of_logins": 134,
-        "number_of_features_used": 15,
-        "time_spent_on_platform": 696,
+        "last_login_date": "2024-08-29",
+        "number_of_logins": 115,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 212,
         "features_used": [
             "Feature U",
-            "Feature W",
-            "Feature Q",
-            "Feature E",
-            "Feature R",
-            "Feature A",
-            "Feature M"
+            "Feature V",
+            "Feature E"
         ]
     },
     {
         "id": 5,
         "name": "User 5",
         "email": "user5@email.com",
-        "last_login_date": "2025-02-05",
-        "number_of_logins": 102,
-        "number_of_features_used": 6,
-        "time_spent_on_platform": 403,
+        "last_login_date": "2025-02-01",
+        "number_of_logins": 141,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 324,
         "features_used": [
-            "Feature S",
-            "Feature M",
+            "Feature L",
             "Feature A",
-            "Feature P",
-            "Feature Q",
-            "Feature I",
-            "Feature I"
+            "Feature R",
+            "Feature V"
         ]
     },
     {
         "id": 6,
         "name": "User 6",
         "email": "user6@email.com",
-        "last_login_date": "2024-08-18",
-        "number_of_logins": 79,
-        "number_of_features_used": 11,
-        "time_spent_on_platform": 415,
+        "last_login_date": "2024-11-26",
+        "number_of_logins": 128,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 627,
         "features_used": [
-            "Feature H",
-            "Feature Q",
-            "Feature U",
-            "Feature F",
-            "Feature X"
+            "Feature N",
+            "Feature A",
+            "Feature P",
+            "Feature C",
+            "Feature W"
         ]
     },
     {
         "id": 7,
         "name": "User 7",
         "email": "user7@email.com",
-        "last_login_date": "2024-10-23",
-        "number_of_logins": 159,
-        "number_of_features_used": 21,
-        "time_spent_on_platform": 303,
+        "last_login_date": "2024-10-19",
+        "number_of_logins": 190,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 593,
         "features_used": [
-            "Feature M",
-            "Feature X",
-            "Feature W",
-            "Feature X",
-            "Feature Z",
-            "Feature B"
+            "Feature O",
+            "Feature B",
+            "Feature I",
+            "Feature L",
+            "Feature P",
+            "Feature V"
         ]
     },
     {
         "id": 8,
         "name": "User 8",
         "email": "user8@email.com",
-        "last_login_date": "2024-08-21",
-        "number_of_logins": 57,
-        "number_of_features_used": 11,
-        "time_spent_on_platform": 529,
+        "last_login_date": "2024-10-26",
+        "number_of_logins": 73,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 787,
         "features_used": [
-            "Feature T",
-            "Feature O",
+            "Feature G",
             "Feature J",
-            "Feature X",
-            "Feature R"
+            "Feature I",
+            "Feature L"
         ]
     },
     {
         "id": 9,
         "name": "User 9",
         "email": "user9@email.com",
-        "last_login_date": "2024-08-04",
-        "number_of_logins": 190,
-        "number_of_features_used": 9,
-        "time_spent_on_platform": 531,
+        "last_login_date": "2024-11-29",
+        "number_of_logins": 53,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 785,
         "features_used": [
+            "Feature O",
+            "Feature V",
             "Feature N",
-            "Feature B",
-            "Feature B",
-            "Feature D",
-            "Feature P",
-            "Feature U",
-            "Feature M"
+            "Feature W",
+            "Feature R"
         ]
     },
     {
         "id": 10,
         "name": "User 10",
         "email": "user10@email.com",
-        "last_login_date": "2024-12-10",
-        "number_of_logins": 151,
-        "number_of_features_used": 11,
-        "time_spent_on_platform": 435,
+        "last_login_date": "2024-11-28",
+        "number_of_logins": 53,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 478,
+        "features_used": [
+            "Feature I",
+            "Feature T",
+            "Feature S",
+            "Feature F",
+            "Feature V",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "User 11",
+        "email": "user11@email.com",
+        "last_login_date": "2024-10-10",
+        "number_of_logins": 105,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 379,
+        "features_used": [
+            "Feature Y",
+            "Feature E",
+            "Feature U",
+            "Feature C",
+            "Feature A",
+            "Feature F",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "User 12",
+        "email": "user12@email.com",
+        "last_login_date": "2024-11-25",
+        "number_of_logins": 54,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 680,
+        "features_used": [
+            "Feature I",
+            "Feature B",
+            "Feature J",
+            "Feature Q",
+            "Feature K",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "User 13",
+        "email": "user13@email.com",
+        "last_login_date": "2024-11-17",
+        "number_of_logins": 68,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 499,
+        "features_used": [
+            "Feature S",
+            "Feature Z",
+            "Feature J",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "User 14",
+        "email": "user14@email.com",
+        "last_login_date": "2024-10-25",
+        "number_of_logins": 196,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 416,
+        "features_used": [
+            "Feature J",
+            "Feature B",
+            "Feature T",
+            "Feature V",
+            "Feature I",
+            "Feature S",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "User 15",
+        "email": "user15@email.com",
+        "last_login_date": "2025-02-09",
+        "number_of_logins": 92,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 783,
+        "features_used": [
+            "Feature R",
+            "Feature I",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "User 16",
+        "email": "user16@email.com",
+        "last_login_date": "2024-11-16",
+        "number_of_logins": 96,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 588,
+        "features_used": [
+            "Feature V",
+            "Feature R",
+            "Feature O",
+            "Feature S",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "User 17",
+        "email": "user17@email.com",
+        "last_login_date": "2024-12-24",
+        "number_of_logins": 94,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 777,
+        "features_used": [
+            "Feature J",
+            "Feature H",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "User 18",
+        "email": "user18@email.com",
+        "last_login_date": "2025-01-16",
+        "number_of_logins": 125,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 308,
+        "features_used": [
+            "Feature Y",
+            "Feature M",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "User 19",
+        "email": "user19@email.com",
+        "last_login_date": "2024-09-27",
+        "number_of_logins": 118,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 501,
+        "features_used": [
+            "Feature A",
+            "Feature B",
+            "Feature Z",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "User 20",
+        "email": "user20@email.com",
+        "last_login_date": "2024-09-18",
+        "number_of_logins": 148,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 711,
+        "features_used": [
+            "Feature O",
+            "Feature Y",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "User 21",
+        "email": "user21@email.com",
+        "last_login_date": "2025-01-02",
+        "number_of_logins": 88,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 203,
+        "features_used": [
+            "Feature O",
+            "Feature D",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "User 22",
+        "email": "user22@email.com",
+        "last_login_date": "2024-12-11",
+        "number_of_logins": 81,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 782,
+        "features_used": [
+            "Feature X",
+            "Feature F",
+            "Feature T",
+            "Feature W",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "User 23",
+        "email": "user23@email.com",
+        "last_login_date": "2024-09-17",
+        "number_of_logins": 53,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 450,
+        "features_used": [
+            "Feature W",
+            "Feature L",
+            "Feature G",
+            "Feature F",
+            "Feature T",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "User 24",
+        "email": "user24@email.com",
+        "last_login_date": "2025-01-16",
+        "number_of_logins": 101,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 337,
+        "features_used": [
+            "Feature V",
+            "Feature R",
+            "Feature Y",
+            "Feature T",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "User 25",
+        "email": "user25@email.com",
+        "last_login_date": "2024-10-14",
+        "number_of_logins": 180,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 591,
+        "features_used": [
+            "Feature X",
+            "Feature P",
+            "Feature I",
+            "Feature C",
+            "Feature C",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "User 26",
+        "email": "user26@email.com",
+        "last_login_date": "2024-11-17",
+        "number_of_logins": 154,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 778,
+        "features_used": [
+            "Feature H",
+            "Feature Q",
+            "Feature E",
+            "Feature A",
+            "Feature F",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "User 27",
+        "email": "user27@email.com",
+        "last_login_date": "2024-09-06",
+        "number_of_logins": 133,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 531,
+        "features_used": [
+            "Feature O",
+            "Feature F",
+            "Feature Q",
+            "Feature R",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "User 28",
+        "email": "user28@email.com",
+        "last_login_date": "2024-12-05",
+        "number_of_logins": 64,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 700,
+        "features_used": [
+            "Feature T",
+            "Feature O",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "User 29",
+        "email": "user29@email.com",
+        "last_login_date": "2024-09-04",
+        "number_of_logins": 108,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 400,
+        "features_used": [
+            "Feature X",
+            "Feature Y",
+            "Feature Z",
+            "Feature A",
+            "Feature H",
+            "Feature W",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "User 30",
+        "email": "user30@email.com",
+        "last_login_date": "2025-01-27",
+        "number_of_logins": 165,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 404,
+        "features_used": [
+            "Feature B",
+            "Feature W",
+            "Feature U",
+            "Feature U",
+            "Feature C",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "User 31",
+        "email": "user31@email.com",
+        "last_login_date": "2025-01-23",
+        "number_of_logins": 98,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 725,
+        "features_used": [
+            "Feature Y",
+            "Feature Z",
+            "Feature E",
+            "Feature A",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "User 32",
+        "email": "user32@email.com",
+        "last_login_date": "2025-02-11",
+        "number_of_logins": 84,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 416,
+        "features_used": [
+            "Feature B",
+            "Feature E",
+            "Feature M",
+            "Feature Z",
+            "Feature V",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "User 33",
+        "email": "user33@email.com",
+        "last_login_date": "2024-09-09",
+        "number_of_logins": 115,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 627,
+        "features_used": [
+            "Feature N",
+            "Feature Y",
+            "Feature X",
+            "Feature S",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "User 34",
+        "email": "user34@email.com",
+        "last_login_date": "2024-12-17",
+        "number_of_logins": 58,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 635,
+        "features_used": [
+            "Feature M",
+            "Feature Y",
+            "Feature G",
+            "Feature D",
+            "Feature A",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "User 35",
+        "email": "user35@email.com",
+        "last_login_date": "2024-08-28",
+        "number_of_logins": 86,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 699,
         "features_used": [
             "Feature U",
+            "Feature C",
+            "Feature J",
+            "Feature C",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "User 36",
+        "email": "user36@email.com",
+        "last_login_date": "2024-10-09",
+        "number_of_logins": 165,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 635,
+        "features_used": [
+            "Feature V",
+            "Feature M",
+            "Feature S",
+            "Feature W",
+            "Feature T",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "User 37",
+        "email": "user37@email.com",
+        "last_login_date": "2024-09-20",
+        "number_of_logins": 178,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 787,
+        "features_used": [
+            "Feature H",
+            "Feature Q",
+            "Feature H",
             "Feature K",
+            "Feature A",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "User 38",
+        "email": "user38@email.com",
+        "last_login_date": "2024-10-04",
+        "number_of_logins": 85,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 379,
+        "features_used": [
+            "Feature W",
+            "Feature D",
+            "Feature J",
+            "Feature Z",
+            "Feature I",
+            "Feature H",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "User 39",
+        "email": "user39@email.com",
+        "last_login_date": "2025-01-22",
+        "number_of_logins": 176,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 373,
+        "features_used": [
+            "Feature P",
+            "Feature P",
+            "Feature G",
+            "Feature L",
+            "Feature D",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "User 40",
+        "email": "user40@email.com",
+        "last_login_date": "2024-11-11",
+        "number_of_logins": 122,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 609,
+        "features_used": [
+            "Feature Q",
+            "Feature F",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "User 41",
+        "email": "user41@email.com",
+        "last_login_date": "2025-01-03",
+        "number_of_logins": 105,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 266,
+        "features_used": [
+            "Feature S",
+            "Feature R",
+            "Feature Q",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "User 42",
+        "email": "user42@email.com",
+        "last_login_date": "2024-08-26",
+        "number_of_logins": 143,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 622,
+        "features_used": [
+            "Feature P",
+            "Feature Z",
+            "Feature E",
+            "Feature P",
+            "Feature S",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "User 43",
+        "email": "user43@email.com",
+        "last_login_date": "2025-02-17",
+        "number_of_logins": 85,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 731,
+        "features_used": [
+            "Feature C",
+            "Feature J",
+            "Feature Z",
+            "Feature A",
+            "Feature J",
+            "Feature A",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "User 44",
+        "email": "user44@email.com",
+        "last_login_date": "2024-11-05",
+        "number_of_logins": 119,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 541,
+        "features_used": [
+            "Feature P",
+            "Feature V",
+            "Feature V",
+            "Feature P",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "User 45",
+        "email": "user45@email.com",
+        "last_login_date": "2024-08-11",
+        "number_of_logins": 81,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 283,
+        "features_used": [
+            "Feature U",
+            "Feature E",
+            "Feature J",
+            "Feature W",
+            "Feature B",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "User 46",
+        "email": "user46@email.com",
+        "last_login_date": "2025-02-05",
+        "number_of_logins": 91,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 206,
+        "features_used": [
+            "Feature A",
+            "Feature M",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "User 47",
+        "email": "user47@email.com",
+        "last_login_date": "2024-09-15",
+        "number_of_logins": 73,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 457,
+        "features_used": [
+            "Feature D",
+            "Feature T",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "User 48",
+        "email": "user48@email.com",
+        "last_login_date": "2025-01-23",
+        "number_of_logins": 77,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 765,
+        "features_used": [
+            "Feature G",
+            "Feature I",
+            "Feature M",
+            "Feature U",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "User 49",
+        "email": "user49@email.com",
+        "last_login_date": "2025-01-26",
+        "number_of_logins": 131,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 604,
+        "features_used": [
+            "Feature S",
+            "Feature Z",
+            "Feature E",
+            "Feature T",
+            "Feature Q",
+            "Feature R",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "User 50",
+        "email": "user50@email.com",
+        "last_login_date": "2024-11-07",
+        "number_of_logins": 66,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 569,
+        "features_used": [
+            "Feature L",
+            "Feature S",
+            "Feature Z",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "User 51",
+        "email": "user51@email.com",
+        "last_login_date": "2024-10-15",
+        "number_of_logins": 154,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 637,
+        "features_used": [
+            "Feature J",
+            "Feature N",
+            "Feature Q",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "User 52",
+        "email": "user52@email.com",
+        "last_login_date": "2024-12-24",
+        "number_of_logins": 87,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 450,
+        "features_used": [
+            "Feature U",
+            "Feature A",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "User 53",
+        "email": "user53@email.com",
+        "last_login_date": "2024-11-15",
+        "number_of_logins": 175,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 325,
+        "features_used": [
+            "Feature I",
+            "Feature O",
+            "Feature X",
+            "Feature I",
+            "Feature O",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "User 54",
+        "email": "user54@email.com",
+        "last_login_date": "2024-09-21",
+        "number_of_logins": 188,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 509,
+        "features_used": [
+            "Feature Z",
+            "Feature T",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "User 55",
+        "email": "user55@email.com",
+        "last_login_date": "2025-01-02",
+        "number_of_logins": 101,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 743,
+        "features_used": [
+            "Feature F",
+            "Feature Z",
+            "Feature P",
+            "Feature B",
+            "Feature D",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "User 56",
+        "email": "user56@email.com",
+        "last_login_date": "2024-09-30",
+        "number_of_logins": 118,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 748,
+        "features_used": [
+            "Feature W",
+            "Feature C",
+            "Feature E",
+            "Feature H",
+            "Feature K",
+            "Feature K",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "User 57",
+        "email": "user57@email.com",
+        "last_login_date": "2024-12-28",
+        "number_of_logins": 132,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 633,
+        "features_used": [
+            "Feature D",
+            "Feature B",
+            "Feature N",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "User 58",
+        "email": "user58@email.com",
+        "last_login_date": "2024-08-07",
+        "number_of_logins": 163,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 504,
+        "features_used": [
+            "Feature Q",
+            "Feature A",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "User 59",
+        "email": "user59@email.com",
+        "last_login_date": "2024-08-21",
+        "number_of_logins": 65,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 320,
+        "features_used": [
+            "Feature E",
+            "Feature S",
+            "Feature J",
+            "Feature N",
+            "Feature A",
+            "Feature J",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "User 60",
+        "email": "user60@email.com",
+        "last_login_date": "2024-10-31",
+        "number_of_logins": 80,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 402,
+        "features_used": [
+            "Feature Y",
+            "Feature P",
+            "Feature T",
+            "Feature W",
+            "Feature X",
+            "Feature E",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "User 61",
+        "email": "user61@email.com",
+        "last_login_date": "2025-02-05",
+        "number_of_logins": 103,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 234,
+        "features_used": [
+            "Feature G",
+            "Feature P",
+            "Feature J",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "User 62",
+        "email": "user62@email.com",
+        "last_login_date": "2024-12-16",
+        "number_of_logins": 135,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 531,
+        "features_used": [
+            "Feature S",
+            "Feature H",
+            "Feature L",
+            "Feature L",
+            "Feature P",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "User 63",
+        "email": "user63@email.com",
+        "last_login_date": "2024-12-07",
+        "number_of_logins": 174,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 483,
+        "features_used": [
+            "Feature O",
+            "Feature Y",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "User 64",
+        "email": "user64@email.com",
+        "last_login_date": "2024-08-26",
+        "number_of_logins": 131,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 378,
+        "features_used": [
+            "Feature V",
+            "Feature D",
+            "Feature P",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "User 65",
+        "email": "user65@email.com",
+        "last_login_date": "2024-10-24",
+        "number_of_logins": 166,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 205,
+        "features_used": [
+            "Feature W",
+            "Feature J",
+            "Feature M",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "User 66",
+        "email": "user66@email.com",
+        "last_login_date": "2024-09-15",
+        "number_of_logins": 124,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 718,
+        "features_used": [
+            "Feature S",
+            "Feature M",
+            "Feature K",
+            "Feature K",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "User 67",
+        "email": "user67@email.com",
+        "last_login_date": "2024-10-14",
+        "number_of_logins": 183,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 309,
+        "features_used": [
+            "Feature P",
+            "Feature M",
+            "Feature N",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "User 68",
+        "email": "user68@email.com",
+        "last_login_date": "2025-01-21",
+        "number_of_logins": 115,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 253,
+        "features_used": [
+            "Feature B",
+            "Feature M",
+            "Feature T",
+            "Feature J",
+            "Feature Q",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "User 69",
+        "email": "user69@email.com",
+        "last_login_date": "2025-01-01",
+        "number_of_logins": 166,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 482,
+        "features_used": [
+            "Feature P",
+            "Feature X",
+            "Feature X",
+            "Feature Q",
+            "Feature L",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "User 70",
+        "email": "user70@email.com",
+        "last_login_date": "2024-08-09",
+        "number_of_logins": 111,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 719,
+        "features_used": [
+            "Feature O",
+            "Feature U",
+            "Feature S",
+            "Feature E",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "User 71",
+        "email": "user71@email.com",
+        "last_login_date": "2024-08-03",
+        "number_of_logins": 134,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 736,
+        "features_used": [
+            "Feature O",
+            "Feature G",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "User 72",
+        "email": "user72@email.com",
+        "last_login_date": "2024-10-09",
+        "number_of_logins": 103,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 598,
+        "features_used": [
+            "Feature H",
+            "Feature I",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "User 73",
+        "email": "user73@email.com",
+        "last_login_date": "2025-01-03",
+        "number_of_logins": 116,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 594,
+        "features_used": [
+            "Feature Z",
+            "Feature O",
+            "Feature Q",
+            "Feature Y",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "User 74",
+        "email": "user74@email.com",
+        "last_login_date": "2025-02-15",
+        "number_of_logins": 139,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 607,
+        "features_used": [
+            "Feature B",
+            "Feature K",
+            "Feature H",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "User 75",
+        "email": "user75@email.com",
+        "last_login_date": "2025-01-08",
+        "number_of_logins": 165,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 258,
+        "features_used": [
+            "Feature Q",
+            "Feature U",
+            "Feature K",
+            "Feature J",
+            "Feature I",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "User 76",
+        "email": "user76@email.com",
+        "last_login_date": "2024-09-17",
+        "number_of_logins": 86,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 231,
+        "features_used": [
+            "Feature H",
+            "Feature A",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "User 77",
+        "email": "user77@email.com",
+        "last_login_date": "2025-01-08",
+        "number_of_logins": 84,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 758,
+        "features_used": [
+            "Feature P",
+            "Feature N",
+            "Feature K",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "User 78",
+        "email": "user78@email.com",
+        "last_login_date": "2024-08-12",
+        "number_of_logins": 89,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 716,
+        "features_used": [
+            "Feature T",
+            "Feature C",
+            "Feature Z",
+            "Feature P",
+            "Feature Q",
+            "Feature J",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "User 79",
+        "email": "user79@email.com",
+        "last_login_date": "2024-11-16",
+        "number_of_logins": 61,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 739,
+        "features_used": [
+            "Feature R",
+            "Feature T",
+            "Feature G",
+            "Feature V",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "User 80",
+        "email": "user80@email.com",
+        "last_login_date": "2024-09-11",
+        "number_of_logins": 156,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 289,
+        "features_used": [
+            "Feature I",
+            "Feature G",
+            "Feature R",
+            "Feature N",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "User 81",
+        "email": "user81@email.com",
+        "last_login_date": "2024-08-11",
+        "number_of_logins": 50,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 213,
+        "features_used": [
+            "Feature O",
+            "Feature O",
+            "Feature L",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "User 82",
+        "email": "user82@email.com",
+        "last_login_date": "2024-09-18",
+        "number_of_logins": 170,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 244,
+        "features_used": [
+            "Feature S",
+            "Feature S",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "User 83",
+        "email": "user83@email.com",
+        "last_login_date": "2024-09-27",
+        "number_of_logins": 158,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 361,
+        "features_used": [
+            "Feature D",
+            "Feature R",
+            "Feature Q",
+            "Feature D",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "User 84",
+        "email": "user84@email.com",
+        "last_login_date": "2024-10-10",
+        "number_of_logins": 81,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 703,
+        "features_used": [
+            "Feature M",
+            "Feature A",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "User 85",
+        "email": "user85@email.com",
+        "last_login_date": "2024-10-13",
+        "number_of_logins": 151,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 757,
+        "features_used": [
+            "Feature R",
+            "Feature G",
+            "Feature X",
+            "Feature Y",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "User 86",
+        "email": "user86@email.com",
+        "last_login_date": "2025-01-02",
+        "number_of_logins": 162,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 646,
+        "features_used": [
+            "Feature S",
+            "Feature C",
+            "Feature P",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 87,
+        "name": "User 87",
+        "email": "user87@email.com",
+        "last_login_date": "2024-10-26",
+        "number_of_logins": 171,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 444,
+        "features_used": [
+            "Feature N",
+            "Feature J",
+            "Feature M",
+            "Feature F",
+            "Feature I",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "User 88",
+        "email": "user88@email.com",
+        "last_login_date": "2024-12-24",
+        "number_of_logins": 56,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 420,
+        "features_used": [
+            "Feature E",
+            "Feature J",
+            "Feature L",
+            "Feature C",
+            "Feature Y",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "User 89",
+        "email": "user89@email.com",
+        "last_login_date": "2024-10-02",
+        "number_of_logins": 61,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 375,
+        "features_used": [
+            "Feature S",
+            "Feature B",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "User 90",
+        "email": "user90@email.com",
+        "last_login_date": "2024-09-17",
+        "number_of_logins": 115,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 456,
+        "features_used": [
+            "Feature E",
+            "Feature S",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 91,
+        "name": "User 91",
+        "email": "user91@email.com",
+        "last_login_date": "2024-11-04",
+        "number_of_logins": 178,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 451,
+        "features_used": [
+            "Feature T",
+            "Feature E",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 92,
+        "name": "User 92",
+        "email": "user92@email.com",
+        "last_login_date": "2024-10-29",
+        "number_of_logins": 52,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 269,
+        "features_used": [
+            "Feature S",
+            "Feature D",
+            "Feature V",
+            "Feature H",
+            "Feature U",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 93,
+        "name": "User 93",
+        "email": "user93@email.com",
+        "last_login_date": "2024-12-15",
+        "number_of_logins": 197,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 232,
+        "features_used": [
+            "Feature M",
+            "Feature F",
+            "Feature F",
+            "Feature W",
+            "Feature N",
+            "Feature P",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "User 94",
+        "email": "user94@email.com",
+        "last_login_date": "2024-09-08",
+        "number_of_logins": 123,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 461,
+        "features_used": [
+            "Feature L",
+            "Feature O",
+            "Feature G",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 95,
+        "name": "User 95",
+        "email": "user95@email.com",
+        "last_login_date": "2024-10-04",
+        "number_of_logins": 105,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 202,
+        "features_used": [
+            "Feature H",
+            "Feature M",
+            "Feature I",
+            "Feature Y",
+            "Feature N",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 96,
+        "name": "User 96",
+        "email": "user96@email.com",
+        "last_login_date": "2024-10-07",
+        "number_of_logins": 97,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 406,
+        "features_used": [
+            "Feature E",
+            "Feature J",
+            "Feature T",
+            "Feature A",
+            "Feature F",
+            "Feature L",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "User 97",
+        "email": "user97@email.com",
+        "last_login_date": "2025-01-17",
+        "number_of_logins": 91,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 619,
+        "features_used": [
+            "Feature S",
+            "Feature K",
+            "Feature N",
+            "Feature U",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 98,
+        "name": "User 98",
+        "email": "user98@email.com",
+        "last_login_date": "2024-11-23",
+        "number_of_logins": 68,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 251,
+        "features_used": [
+            "Feature X",
+            "Feature H",
+            "Feature M",
+            "Feature L",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 99,
+        "name": "User 99",
+        "email": "user99@email.com",
+        "last_login_date": "2025-01-08",
+        "number_of_logins": 159,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 327,
+        "features_used": [
+            "Feature X",
+            "Feature T",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 100,
+        "name": "User 100",
+        "email": "user100@email.com",
+        "last_login_date": "2024-10-21",
+        "number_of_logins": 181,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 786,
+        "features_used": [
+            "Feature D",
+            "Feature T",
+            "Feature M",
+            "Feature T",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "User 101",
+        "email": "user101@email.com",
+        "last_login_date": "2024-08-14",
+        "number_of_logins": 129,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 683,
+        "features_used": [
+            "Feature M",
+            "Feature H",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "User 102",
+        "email": "user102@email.com",
+        "last_login_date": "2024-12-11",
+        "number_of_logins": 118,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 779,
+        "features_used": [
+            "Feature E",
+            "Feature F",
+            "Feature Q",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "User 103",
+        "email": "user103@email.com",
+        "last_login_date": "2024-12-24",
+        "number_of_logins": 182,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 240,
+        "features_used": [
+            "Feature Z",
+            "Feature M",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "User 104",
+        "email": "user104@email.com",
+        "last_login_date": "2024-08-24",
+        "number_of_logins": 77,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 314,
+        "features_used": [
+            "Feature I",
+            "Feature Q",
+            "Feature Y",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 105,
+        "name": "User 105",
+        "email": "user105@email.com",
+        "last_login_date": "2024-09-01",
+        "number_of_logins": 99,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 487,
+        "features_used": [
+            "Feature G",
+            "Feature K",
+            "Feature V",
+            "Feature P",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "User 106",
+        "email": "user106@email.com",
+        "last_login_date": "2024-10-17",
+        "number_of_logins": 111,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 299,
+        "features_used": [
+            "Feature G",
+            "Feature J",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "User 107",
+        "email": "user107@email.com",
+        "last_login_date": "2024-10-12",
+        "number_of_logins": 183,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 430,
+        "features_used": [
+            "Feature Y",
+            "Feature X",
+            "Feature Z",
+            "Feature Q",
+            "Feature P",
+            "Feature Q",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 108,
+        "name": "User 108",
+        "email": "user108@email.com",
+        "last_login_date": "2024-09-02",
+        "number_of_logins": 155,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 372,
+        "features_used": [
+            "Feature U",
+            "Feature Y",
+            "Feature J",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 109,
+        "name": "User 109",
+        "email": "user109@email.com",
+        "last_login_date": "2025-01-09",
+        "number_of_logins": 133,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 488,
+        "features_used": [
+            "Feature S",
+            "Feature O",
+            "Feature O",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 110,
+        "name": "User 110",
+        "email": "user110@email.com",
+        "last_login_date": "2024-08-31",
+        "number_of_logins": 143,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 224,
+        "features_used": [
+            "Feature X",
+            "Feature W",
+            "Feature Q",
+            "Feature H",
+            "Feature N",
+            "Feature Q",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 111,
+        "name": "User 111",
+        "email": "user111@email.com",
+        "last_login_date": "2025-02-11",
+        "number_of_logins": 123,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 694,
+        "features_used": [
+            "Feature B",
+            "Feature Z",
+            "Feature O",
+            "Feature A",
+            "Feature S",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 112,
+        "name": "User 112",
+        "email": "user112@email.com",
+        "last_login_date": "2025-02-15",
+        "number_of_logins": 94,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 354,
+        "features_used": [
+            "Feature O",
+            "Feature M",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 113,
+        "name": "User 113",
+        "email": "user113@email.com",
+        "last_login_date": "2024-12-25",
+        "number_of_logins": 150,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 394,
+        "features_used": [
+            "Feature I",
+            "Feature O",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 114,
+        "name": "User 114",
+        "email": "user114@email.com",
+        "last_login_date": "2025-02-13",
+        "number_of_logins": 183,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 615,
+        "features_used": [
+            "Feature L",
+            "Feature B",
+            "Feature Z",
+            "Feature G",
+            "Feature M",
+            "Feature Z",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 115,
+        "name": "User 115",
+        "email": "user115@email.com",
+        "last_login_date": "2024-12-26",
+        "number_of_logins": 100,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 296,
+        "features_used": [
+            "Feature H",
+            "Feature Y",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 116,
+        "name": "User 116",
+        "email": "user116@email.com",
+        "last_login_date": "2024-11-12",
+        "number_of_logins": 191,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 719,
+        "features_used": [
+            "Feature R",
+            "Feature V",
+            "Feature Y",
+            "Feature A",
+            "Feature B",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 117,
+        "name": "User 117",
+        "email": "user117@email.com",
+        "last_login_date": "2024-11-23",
+        "number_of_logins": 50,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 393,
+        "features_used": [
+            "Feature G",
+            "Feature U",
+            "Feature R",
+            "Feature B",
+            "Feature M",
+            "Feature B",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 118,
+        "name": "User 118",
+        "email": "user118@email.com",
+        "last_login_date": "2025-02-07",
+        "number_of_logins": 178,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 703,
+        "features_used": [
+            "Feature F",
+            "Feature A",
+            "Feature P",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 119,
+        "name": "User 119",
+        "email": "user119@email.com",
+        "last_login_date": "2024-09-04",
+        "number_of_logins": 105,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 465,
+        "features_used": [
+            "Feature D",
+            "Feature I",
+            "Feature D",
+            "Feature W",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 120,
+        "name": "User 120",
+        "email": "user120@email.com",
+        "last_login_date": "2024-09-04",
+        "number_of_logins": 167,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 205,
+        "features_used": [
+            "Feature N",
+            "Feature D",
+            "Feature L",
+            "Feature S",
+            "Feature O",
+            "Feature K",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 121,
+        "name": "User 121",
+        "email": "user121@email.com",
+        "last_login_date": "2024-10-18",
+        "number_of_logins": 80,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 512,
+        "features_used": [
+            "Feature T",
+            "Feature O",
+            "Feature Z",
+            "Feature R",
+            "Feature S",
+            "Feature U",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 122,
+        "name": "User 122",
+        "email": "user122@email.com",
+        "last_login_date": "2024-09-23",
+        "number_of_logins": 160,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 353,
+        "features_used": [
+            "Feature U",
+            "Feature O",
+            "Feature M",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 123,
+        "name": "User 123",
+        "email": "user123@email.com",
+        "last_login_date": "2025-01-10",
+        "number_of_logins": 153,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 719,
+        "features_used": [
+            "Feature F",
+            "Feature B",
+            "Feature W",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 124,
+        "name": "User 124",
+        "email": "user124@email.com",
+        "last_login_date": "2024-10-31",
+        "number_of_logins": 152,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 800,
+        "features_used": [
+            "Feature Q",
+            "Feature B",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 125,
+        "name": "User 125",
+        "email": "user125@email.com",
+        "last_login_date": "2024-09-30",
+        "number_of_logins": 190,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 548,
+        "features_used": [
+            "Feature B",
+            "Feature T",
+            "Feature Q",
+            "Feature S",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 126,
+        "name": "User 126",
+        "email": "user126@email.com",
+        "last_login_date": "2024-09-16",
+        "number_of_logins": 190,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 330,
+        "features_used": [
+            "Feature R",
+            "Feature R",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 127,
+        "name": "User 127",
+        "email": "user127@email.com",
+        "last_login_date": "2024-11-20",
+        "number_of_logins": 117,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 526,
+        "features_used": [
+            "Feature H",
+            "Feature Q",
+            "Feature T",
+            "Feature K",
+            "Feature I",
+            "Feature N",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 128,
+        "name": "User 128",
+        "email": "user128@email.com",
+        "last_login_date": "2024-11-03",
+        "number_of_logins": 64,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 420,
+        "features_used": [
+            "Feature S",
+            "Feature R",
+            "Feature V",
+            "Feature M",
+            "Feature F",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 129,
+        "name": "User 129",
+        "email": "user129@email.com",
+        "last_login_date": "2025-02-19",
+        "number_of_logins": 137,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 653,
+        "features_used": [
+            "Feature G",
+            "Feature V",
+            "Feature Y",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 130,
+        "name": "User 130",
+        "email": "user130@email.com",
+        "last_login_date": "2024-09-14",
+        "number_of_logins": 52,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 369,
+        "features_used": [
+            "Feature X",
+            "Feature L",
+            "Feature O",
+            "Feature K",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 131,
+        "name": "User 131",
+        "email": "user131@email.com",
+        "last_login_date": "2024-09-06",
+        "number_of_logins": 110,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 647,
+        "features_used": [
+            "Feature Q",
+            "Feature N",
+            "Feature M",
+            "Feature B",
+            "Feature J",
+            "Feature M",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 132,
+        "name": "User 132",
+        "email": "user132@email.com",
+        "last_login_date": "2025-01-04",
+        "number_of_logins": 87,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 384,
+        "features_used": [
+            "Feature C",
+            "Feature L",
+            "Feature T",
+            "Feature F",
+            "Feature Q",
+            "Feature U",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 133,
+        "name": "User 133",
+        "email": "user133@email.com",
+        "last_login_date": "2024-10-26",
+        "number_of_logins": 75,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 533,
+        "features_used": [
+            "Feature H",
+            "Feature P",
+            "Feature Q",
+            "Feature B",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 134,
+        "name": "User 134",
+        "email": "user134@email.com",
+        "last_login_date": "2024-09-23",
+        "number_of_logins": 59,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 530,
+        "features_used": [
+            "Feature O",
+            "Feature D",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 135,
+        "name": "User 135",
+        "email": "user135@email.com",
+        "last_login_date": "2025-01-11",
+        "number_of_logins": 82,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 331,
+        "features_used": [
+            "Feature G",
+            "Feature L",
+            "Feature K",
+            "Feature B",
+            "Feature U",
+            "Feature Q",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 136,
+        "name": "User 136",
+        "email": "user136@email.com",
+        "last_login_date": "2024-10-10",
+        "number_of_logins": 90,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 725,
+        "features_used": [
+            "Feature I",
+            "Feature K",
+            "Feature Y",
+            "Feature C",
+            "Feature Y",
+            "Feature T",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 137,
+        "name": "User 137",
+        "email": "user137@email.com",
+        "last_login_date": "2024-09-23",
+        "number_of_logins": 121,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 423,
+        "features_used": [
+            "Feature H",
+            "Feature T",
+            "Feature T",
+            "Feature V",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 138,
+        "name": "User 138",
+        "email": "user138@email.com",
+        "last_login_date": "2025-02-05",
+        "number_of_logins": 69,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 287,
+        "features_used": [
+            "Feature D",
+            "Feature J",
+            "Feature M",
+            "Feature A",
+            "Feature M",
+            "Feature A",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 139,
+        "name": "User 139",
+        "email": "user139@email.com",
+        "last_login_date": "2024-10-13",
+        "number_of_logins": 108,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 664,
+        "features_used": [
+            "Feature U",
+            "Feature P",
+            "Feature P",
+            "Feature W",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 140,
+        "name": "User 140",
+        "email": "user140@email.com",
+        "last_login_date": "2025-01-28",
+        "number_of_logins": 129,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 277,
+        "features_used": [
+            "Feature Z",
+            "Feature T",
+            "Feature M",
+            "Feature R",
+            "Feature G",
+            "Feature I",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 141,
+        "name": "User 141",
+        "email": "user141@email.com",
+        "last_login_date": "2024-11-08",
+        "number_of_logins": 81,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 456,
+        "features_used": [
+            "Feature K",
+            "Feature U",
+            "Feature I",
+            "Feature Q",
+            "Feature Y",
+            "Feature R",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 142,
+        "name": "User 142",
+        "email": "user142@email.com",
+        "last_login_date": "2024-09-06",
+        "number_of_logins": 54,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 323,
+        "features_used": [
+            "Feature U",
+            "Feature V",
+            "Feature W",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 143,
+        "name": "User 143",
+        "email": "user143@email.com",
+        "last_login_date": "2024-08-20",
+        "number_of_logins": 101,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 517,
+        "features_used": [
+            "Feature O",
+            "Feature F",
+            "Feature M",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 144,
+        "name": "User 144",
+        "email": "user144@email.com",
+        "last_login_date": "2025-02-14",
+        "number_of_logins": 112,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 226,
+        "features_used": [
+            "Feature N",
+            "Feature K",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 145,
+        "name": "User 145",
+        "email": "user145@email.com",
+        "last_login_date": "2024-08-26",
+        "number_of_logins": 157,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 579,
+        "features_used": [
+            "Feature G",
+            "Feature Y",
+            "Feature I",
+            "Feature V",
+            "Feature E",
+            "Feature Q",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 146,
+        "name": "User 146",
+        "email": "user146@email.com",
+        "last_login_date": "2024-11-03",
+        "number_of_logins": 170,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 601,
+        "features_used": [
+            "Feature S",
+            "Feature Y",
+            "Feature L",
+            "Feature R",
+            "Feature A",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 147,
+        "name": "User 147",
+        "email": "user147@email.com",
+        "last_login_date": "2024-11-17",
+        "number_of_logins": 58,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 287,
+        "features_used": [
+            "Feature P",
+            "Feature B",
+            "Feature H",
+            "Feature L",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 148,
+        "name": "User 148",
+        "email": "user148@email.com",
+        "last_login_date": "2024-09-21",
+        "number_of_logins": 67,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 688,
+        "features_used": [
+            "Feature M",
+            "Feature G",
+            "Feature S",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "User 149",
+        "email": "user149@email.com",
+        "last_login_date": "2024-12-03",
+        "number_of_logins": 179,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 239,
+        "features_used": [
+            "Feature A",
+            "Feature T",
+            "Feature Y",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "User 150",
+        "email": "user150@email.com",
+        "last_login_date": "2024-11-05",
+        "number_of_logins": 91,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 691,
+        "features_used": [
+            "Feature K",
+            "Feature S",
+            "Feature U",
+            "Feature V",
+            "Feature I",
+            "Feature D",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 151,
+        "name": "User 151",
+        "email": "user151@email.com",
+        "last_login_date": "2024-08-24",
+        "number_of_logins": 151,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 710,
+        "features_used": [
+            "Feature F",
+            "Feature B",
+            "Feature I",
+            "Feature I",
+            "Feature P",
+            "Feature U",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 152,
+        "name": "User 152",
+        "email": "user152@email.com",
+        "last_login_date": "2024-10-20",
+        "number_of_logins": 75,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 422,
+        "features_used": [
+            "Feature B",
+            "Feature P",
+            "Feature A",
+            "Feature Y",
+            "Feature U",
+            "Feature B",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 153,
+        "name": "User 153",
+        "email": "user153@email.com",
+        "last_login_date": "2024-11-02",
+        "number_of_logins": 92,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 338,
+        "features_used": [
+            "Feature Z",
+            "Feature S",
+            "Feature F",
+            "Feature Y",
+            "Feature S",
+            "Feature F",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 154,
+        "name": "User 154",
+        "email": "user154@email.com",
+        "last_login_date": "2024-09-19",
+        "number_of_logins": 151,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 266,
+        "features_used": [
+            "Feature R",
+            "Feature Y",
+            "Feature J",
+            "Feature Y",
+            "Feature M",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 155,
+        "name": "User 155",
+        "email": "user155@email.com",
+        "last_login_date": "2025-01-11",
+        "number_of_logins": 70,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 288,
+        "features_used": [
+            "Feature G",
+            "Feature X",
+            "Feature R",
+            "Feature G",
+            "Feature I",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 156,
+        "name": "User 156",
+        "email": "user156@email.com",
+        "last_login_date": "2024-08-31",
+        "number_of_logins": 54,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 484,
+        "features_used": [
+            "Feature A",
+            "Feature B",
+            "Feature J",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 157,
+        "name": "User 157",
+        "email": "user157@email.com",
+        "last_login_date": "2024-08-18",
+        "number_of_logins": 116,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 399,
+        "features_used": [
+            "Feature X",
+            "Feature K",
+            "Feature Z",
+            "Feature H",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 158,
+        "name": "User 158",
+        "email": "user158@email.com",
+        "last_login_date": "2024-09-27",
+        "number_of_logins": 89,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 353,
+        "features_used": [
+            "Feature G",
+            "Feature R",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 159,
+        "name": "User 159",
+        "email": "user159@email.com",
+        "last_login_date": "2024-08-25",
+        "number_of_logins": 59,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 343,
+        "features_used": [
+            "Feature M",
+            "Feature E",
+            "Feature B",
+            "Feature R",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 160,
+        "name": "User 160",
+        "email": "user160@email.com",
+        "last_login_date": "2024-10-19",
+        "number_of_logins": 90,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 679,
+        "features_used": [
+            "Feature X",
+            "Feature V",
+            "Feature J",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 161,
+        "name": "User 161",
+        "email": "user161@email.com",
+        "last_login_date": "2024-11-20",
+        "number_of_logins": 111,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 475,
+        "features_used": [
+            "Feature L",
+            "Feature A",
+            "Feature Z",
+            "Feature K",
+            "Feature W",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 162,
+        "name": "User 162",
+        "email": "user162@email.com",
+        "last_login_date": "2025-01-26",
+        "number_of_logins": 93,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 244,
+        "features_used": [
+            "Feature P",
+            "Feature B",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 163,
+        "name": "User 163",
+        "email": "user163@email.com",
+        "last_login_date": "2024-09-06",
+        "number_of_logins": 55,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 566,
+        "features_used": [
+            "Feature X",
+            "Feature A",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 164,
+        "name": "User 164",
+        "email": "user164@email.com",
+        "last_login_date": "2024-12-09",
+        "number_of_logins": 99,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 592,
+        "features_used": [
+            "Feature Q",
+            "Feature S",
+            "Feature O",
+            "Feature G",
+            "Feature D",
+            "Feature U",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 165,
+        "name": "User 165",
+        "email": "user165@email.com",
+        "last_login_date": "2024-10-19",
+        "number_of_logins": 70,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 585,
+        "features_used": [
+            "Feature G",
+            "Feature L",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 166,
+        "name": "User 166",
+        "email": "user166@email.com",
+        "last_login_date": "2025-02-05",
+        "number_of_logins": 155,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 482,
+        "features_used": [
+            "Feature D",
+            "Feature G",
+            "Feature N",
+            "Feature G",
+            "Feature V",
             "Feature L",
             "Feature G"
+        ]
+    },
+    {
+        "id": 167,
+        "name": "User 167",
+        "email": "user167@email.com",
+        "last_login_date": "2024-10-15",
+        "number_of_logins": 66,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 474,
+        "features_used": [
+            "Feature J",
+            "Feature A",
+            "Feature H",
+            "Feature N",
+            "Feature I",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 168,
+        "name": "User 168",
+        "email": "user168@email.com",
+        "last_login_date": "2024-09-25",
+        "number_of_logins": 79,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 771,
+        "features_used": [
+            "Feature C",
+            "Feature H",
+            "Feature R",
+            "Feature V",
+            "Feature A",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 169,
+        "name": "User 169",
+        "email": "user169@email.com",
+        "last_login_date": "2025-01-17",
+        "number_of_logins": 95,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 459,
+        "features_used": [
+            "Feature L",
+            "Feature I",
+            "Feature I",
+            "Feature O",
+            "Feature P",
+            "Feature A",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 170,
+        "name": "User 170",
+        "email": "user170@email.com",
+        "last_login_date": "2024-08-02",
+        "number_of_logins": 98,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 766,
+        "features_used": [
+            "Feature V",
+            "Feature G",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 171,
+        "name": "User 171",
+        "email": "user171@email.com",
+        "last_login_date": "2024-12-03",
+        "number_of_logins": 137,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 228,
+        "features_used": [
+            "Feature N",
+            "Feature K",
+            "Feature Q",
+            "Feature M",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 172,
+        "name": "User 172",
+        "email": "user172@email.com",
+        "last_login_date": "2024-08-03",
+        "number_of_logins": 162,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 341,
+        "features_used": [
+            "Feature H",
+            "Feature O",
+            "Feature V",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 173,
+        "name": "User 173",
+        "email": "user173@email.com",
+        "last_login_date": "2024-09-08",
+        "number_of_logins": 188,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 784,
+        "features_used": [
+            "Feature P",
+            "Feature H",
+            "Feature F",
+            "Feature Q",
+            "Feature H",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 174,
+        "name": "User 174",
+        "email": "user174@email.com",
+        "last_login_date": "2024-09-18",
+        "number_of_logins": 126,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 259,
+        "features_used": [
+            "Feature Z",
+            "Feature Q",
+            "Feature H",
+            "Feature T",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 175,
+        "name": "User 175",
+        "email": "user175@email.com",
+        "last_login_date": "2024-08-13",
+        "number_of_logins": 187,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 362,
+        "features_used": [
+            "Feature S",
+            "Feature G",
+            "Feature V",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 176,
+        "name": "User 176",
+        "email": "user176@email.com",
+        "last_login_date": "2024-10-27",
+        "number_of_logins": 90,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 492,
+        "features_used": [
+            "Feature Q",
+            "Feature Q",
+            "Feature V",
+            "Feature Y",
+            "Feature O",
+            "Feature Q",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 177,
+        "name": "User 177",
+        "email": "user177@email.com",
+        "last_login_date": "2024-09-30",
+        "number_of_logins": 100,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 311,
+        "features_used": [
+            "Feature J",
+            "Feature V",
+            "Feature M",
+            "Feature C",
+            "Feature G",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 178,
+        "name": "User 178",
+        "email": "user178@email.com",
+        "last_login_date": "2025-01-09",
+        "number_of_logins": 104,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 434,
+        "features_used": [
+            "Feature Y",
+            "Feature Q",
+            "Feature B",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 179,
+        "name": "User 179",
+        "email": "user179@email.com",
+        "last_login_date": "2024-10-05",
+        "number_of_logins": 149,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 415,
+        "features_used": [
+            "Feature U",
+            "Feature P",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 180,
+        "name": "User 180",
+        "email": "user180@email.com",
+        "last_login_date": "2024-12-05",
+        "number_of_logins": 141,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 529,
+        "features_used": [
+            "Feature K",
+            "Feature U",
+            "Feature B",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 181,
+        "name": "User 181",
+        "email": "user181@email.com",
+        "last_login_date": "2024-10-29",
+        "number_of_logins": 199,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 204,
+        "features_used": [
+            "Feature M",
+            "Feature C",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 182,
+        "name": "User 182",
+        "email": "user182@email.com",
+        "last_login_date": "2024-08-11",
+        "number_of_logins": 55,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 409,
+        "features_used": [
+            "Feature Q",
+            "Feature E",
+            "Feature J",
+            "Feature T",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 183,
+        "name": "User 183",
+        "email": "user183@email.com",
+        "last_login_date": "2024-12-22",
+        "number_of_logins": 146,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 311,
+        "features_used": [
+            "Feature O",
+            "Feature J",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 184,
+        "name": "User 184",
+        "email": "user184@email.com",
+        "last_login_date": "2024-12-05",
+        "number_of_logins": 150,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 614,
+        "features_used": [
+            "Feature Y",
+            "Feature F",
+            "Feature B",
+            "Feature R"
+        ]
+    },
+    {
+        "id": 185,
+        "name": "User 185",
+        "email": "user185@email.com",
+        "last_login_date": "2025-01-12",
+        "number_of_logins": 165,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 332,
+        "features_used": [
+            "Feature N",
+            "Feature F",
+            "Feature Q",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 186,
+        "name": "User 186",
+        "email": "user186@email.com",
+        "last_login_date": "2024-11-24",
+        "number_of_logins": 62,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 797,
+        "features_used": [
+            "Feature S",
+            "Feature C",
+            "Feature S",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 187,
+        "name": "User 187",
+        "email": "user187@email.com",
+        "last_login_date": "2024-12-06",
+        "number_of_logins": 170,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 438,
+        "features_used": [
+            "Feature B",
+            "Feature J",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 188,
+        "name": "User 188",
+        "email": "user188@email.com",
+        "last_login_date": "2025-01-01",
+        "number_of_logins": 127,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 772,
+        "features_used": [
+            "Feature X",
+            "Feature A",
+            "Feature U",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 189,
+        "name": "User 189",
+        "email": "user189@email.com",
+        "last_login_date": "2024-10-20",
+        "number_of_logins": 147,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 243,
+        "features_used": [
+            "Feature Q",
+            "Feature E",
+            "Feature H",
+            "Feature Y",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 190,
+        "name": "User 190",
+        "email": "user190@email.com",
+        "last_login_date": "2024-12-31",
+        "number_of_logins": 63,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 623,
+        "features_used": [
+            "Feature Y",
+            "Feature J",
+            "Feature O",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 191,
+        "name": "User 191",
+        "email": "user191@email.com",
+        "last_login_date": "2025-01-03",
+        "number_of_logins": 76,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 650,
+        "features_used": [
+            "Feature V",
+            "Feature O",
+            "Feature E",
+            "Feature S",
+            "Feature A",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 192,
+        "name": "User 192",
+        "email": "user192@email.com",
+        "last_login_date": "2024-12-07",
+        "number_of_logins": 113,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 645,
+        "features_used": [
+            "Feature H",
+            "Feature G",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 193,
+        "name": "User 193",
+        "email": "user193@email.com",
+        "last_login_date": "2024-11-05",
+        "number_of_logins": 195,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 309,
+        "features_used": [
+            "Feature I",
+            "Feature O",
+            "Feature S",
+            "Feature P",
+            "Feature U",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 194,
+        "name": "User 194",
+        "email": "user194@email.com",
+        "last_login_date": "2024-09-18",
+        "number_of_logins": 146,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 501,
+        "features_used": [
+            "Feature N",
+            "Feature B",
+            "Feature U",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 195,
+        "name": "User 195",
+        "email": "user195@email.com",
+        "last_login_date": "2024-11-20",
+        "number_of_logins": 113,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 605,
+        "features_used": [
+            "Feature K",
+            "Feature P",
+            "Feature K",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 196,
+        "name": "User 196",
+        "email": "user196@email.com",
+        "last_login_date": "2024-10-17",
+        "number_of_logins": 86,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 450,
+        "features_used": [
+            "Feature G",
+            "Feature N",
+            "Feature C",
+            "Feature R",
+            "Feature J",
+            "Feature N",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 197,
+        "name": "User 197",
+        "email": "user197@email.com",
+        "last_login_date": "2024-12-31",
+        "number_of_logins": 139,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 435,
+        "features_used": [
+            "Feature M",
+            "Feature V",
+            "Feature X",
+            "Feature Y",
+            "Feature U",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 198,
+        "name": "User 198",
+        "email": "user198@email.com",
+        "last_login_date": "2024-10-09",
+        "number_of_logins": 107,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 727,
+        "features_used": [
+            "Feature U",
+            "Feature X",
+            "Feature Y",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 199,
+        "name": "User 199",
+        "email": "user199@email.com",
+        "last_login_date": "2024-10-20",
+        "number_of_logins": 52,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 757,
+        "features_used": [
+            "Feature E",
+            "Feature N",
+            "Feature L",
+            "Feature O",
+            "Feature Z",
+            "Feature B",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 200,
+        "name": "User 200",
+        "email": "user200@email.com",
+        "last_login_date": "2024-11-18",
+        "number_of_logins": 183,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 658,
+        "features_used": [
+            "Feature L",
+            "Feature K",
+            "Feature G",
+            "Feature P",
+            "Feature J",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 201,
+        "name": "User 201",
+        "email": "user201@email.com",
+        "last_login_date": "2025-01-25",
+        "number_of_logins": 111,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 312,
+        "features_used": [
+            "Feature Y",
+            "Feature M",
+            "Feature C",
+            "Feature N",
+            "Feature T",
+            "Feature D",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 202,
+        "name": "User 202",
+        "email": "user202@email.com",
+        "last_login_date": "2024-11-08",
+        "number_of_logins": 69,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 767,
+        "features_used": [
+            "Feature S",
+            "Feature Y",
+            "Feature C",
+            "Feature V",
+            "Feature F",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 203,
+        "name": "User 203",
+        "email": "user203@email.com",
+        "last_login_date": "2025-02-02",
+        "number_of_logins": 58,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 589,
+        "features_used": [
+            "Feature K",
+            "Feature Y",
+            "Feature L",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 204,
+        "name": "User 204",
+        "email": "user204@email.com",
+        "last_login_date": "2024-12-21",
+        "number_of_logins": 99,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 663,
+        "features_used": [
+            "Feature W",
+            "Feature I",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 205,
+        "name": "User 205",
+        "email": "user205@email.com",
+        "last_login_date": "2024-09-14",
+        "number_of_logins": 132,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 314,
+        "features_used": [
+            "Feature K",
+            "Feature X",
+            "Feature R",
+            "Feature H",
+            "Feature C",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 206,
+        "name": "User 206",
+        "email": "user206@email.com",
+        "last_login_date": "2024-10-28",
+        "number_of_logins": 61,
+        "number_of_features_used": 22,
+        "time_spent_on_platform": 292,
+        "features_used": [
+            "Feature E",
+            "Feature J",
+            "Feature T",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 207,
+        "name": "User 207",
+        "email": "user207@email.com",
+        "last_login_date": "2024-10-12",
+        "number_of_logins": 130,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 510,
+        "features_used": [
+            "Feature V",
+            "Feature H",
+            "Feature O",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 208,
+        "name": "User 208",
+        "email": "user208@email.com",
+        "last_login_date": "2024-10-17",
+        "number_of_logins": 177,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 266,
+        "features_used": [
+            "Feature O",
+            "Feature L",
+            "Feature Y",
+            "Feature W",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 209,
+        "name": "User 209",
+        "email": "user209@email.com",
+        "last_login_date": "2025-01-19",
+        "number_of_logins": 128,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 495,
+        "features_used": [
+            "Feature H",
+            "Feature B",
+            "Feature B",
+            "Feature F",
+            "Feature B",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 210,
+        "name": "User 210",
+        "email": "user210@email.com",
+        "last_login_date": "2024-11-09",
+        "number_of_logins": 109,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 618,
+        "features_used": [
+            "Feature S",
+            "Feature N",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 211,
+        "name": "User 211",
+        "email": "user211@email.com",
+        "last_login_date": "2024-10-24",
+        "number_of_logins": 100,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 278,
+        "features_used": [
+            "Feature B",
+            "Feature S",
+            "Feature O",
+            "Feature E",
+            "Feature P",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 212,
+        "name": "User 212",
+        "email": "user212@email.com",
+        "last_login_date": "2024-11-05",
+        "number_of_logins": 72,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 485,
+        "features_used": [
+            "Feature K",
+            "Feature E",
+            "Feature D",
+            "Feature T",
+            "Feature N",
+            "Feature M",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 213,
+        "name": "User 213",
+        "email": "user213@email.com",
+        "last_login_date": "2024-10-31",
+        "number_of_logins": 102,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 462,
+        "features_used": [
+            "Feature F",
+            "Feature Q",
+            "Feature Z",
+            "Feature B",
+            "Feature A",
+            "Feature S",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 214,
+        "name": "User 214",
+        "email": "user214@email.com",
+        "last_login_date": "2024-12-26",
+        "number_of_logins": 155,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 415,
+        "features_used": [
+            "Feature Y",
+            "Feature F",
+            "Feature A",
+            "Feature K",
+            "Feature V",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 215,
+        "name": "User 215",
+        "email": "user215@email.com",
+        "last_login_date": "2025-01-21",
+        "number_of_logins": 120,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 259,
+        "features_used": [
+            "Feature H",
+            "Feature J",
+            "Feature U",
+            "Feature J",
+            "Feature B",
+            "Feature N",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 216,
+        "name": "User 216",
+        "email": "user216@email.com",
+        "last_login_date": "2024-12-26",
+        "number_of_logins": 111,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 590,
+        "features_used": [
+            "Feature V",
+            "Feature Z",
+            "Feature U",
+            "Feature Z",
+            "Feature O",
+            "Feature C"
+        ]
+    },
+    {
+        "id": 217,
+        "name": "User 217",
+        "email": "user217@email.com",
+        "last_login_date": "2024-10-15",
+        "number_of_logins": 115,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 607,
+        "features_used": [
+            "Feature O",
+            "Feature R",
+            "Feature J",
+            "Feature H",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 218,
+        "name": "User 218",
+        "email": "user218@email.com",
+        "last_login_date": "2025-01-11",
+        "number_of_logins": 79,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 800,
+        "features_used": [
+            "Feature V",
+            "Feature K",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 219,
+        "name": "User 219",
+        "email": "user219@email.com",
+        "last_login_date": "2025-02-10",
+        "number_of_logins": 136,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 455,
+        "features_used": [
+            "Feature R",
+            "Feature L",
+            "Feature O",
+            "Feature H",
+            "Feature N",
+            "Feature W",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 220,
+        "name": "User 220",
+        "email": "user220@email.com",
+        "last_login_date": "2024-12-09",
+        "number_of_logins": 145,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 653,
+        "features_used": [
+            "Feature W",
+            "Feature I",
+            "Feature I",
+            "Feature M",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 221,
+        "name": "User 221",
+        "email": "user221@email.com",
+        "last_login_date": "2024-11-15",
+        "number_of_logins": 179,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 395,
+        "features_used": [
+            "Feature X",
+            "Feature D",
+            "Feature V",
+            "Feature Y",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 222,
+        "name": "User 222",
+        "email": "user222@email.com",
+        "last_login_date": "2024-10-31",
+        "number_of_logins": 128,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 532,
+        "features_used": [
+            "Feature J",
+            "Feature G",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 223,
+        "name": "User 223",
+        "email": "user223@email.com",
+        "last_login_date": "2024-10-05",
+        "number_of_logins": 115,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 634,
+        "features_used": [
+            "Feature U",
+            "Feature M",
+            "Feature L",
+            "Feature E",
+            "Feature D",
+            "Feature V",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 224,
+        "name": "User 224",
+        "email": "user224@email.com",
+        "last_login_date": "2025-02-18",
+        "number_of_logins": 141,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 708,
+        "features_used": [
+            "Feature N",
+            "Feature N",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 225,
+        "name": "User 225",
+        "email": "user225@email.com",
+        "last_login_date": "2025-01-21",
+        "number_of_logins": 113,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 293,
+        "features_used": [
+            "Feature J",
+            "Feature P",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 226,
+        "name": "User 226",
+        "email": "user226@email.com",
+        "last_login_date": "2025-02-21",
+        "number_of_logins": 175,
+        "number_of_features_used": 7,
+        "time_spent_on_platform": 756,
+        "features_used": [
+            "Feature T",
+            "Feature Y",
+            "Feature P",
+            "Feature E"
+        ]
+    },
+    {
+        "id": 227,
+        "name": "User 227",
+        "email": "user227@email.com",
+        "last_login_date": "2025-02-12",
+        "number_of_logins": 138,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 350,
+        "features_used": [
+            "Feature Y",
+            "Feature S",
+            "Feature H",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 228,
+        "name": "User 228",
+        "email": "user228@email.com",
+        "last_login_date": "2024-11-07",
+        "number_of_logins": 186,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 607,
+        "features_used": [
+            "Feature N",
+            "Feature X",
+            "Feature N",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 229,
+        "name": "User 229",
+        "email": "user229@email.com",
+        "last_login_date": "2024-09-22",
+        "number_of_logins": 196,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 220,
+        "features_used": [
+            "Feature H",
+            "Feature J",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 230,
+        "name": "User 230",
+        "email": "user230@email.com",
+        "last_login_date": "2025-02-19",
+        "number_of_logins": 194,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 594,
+        "features_used": [
+            "Feature R",
+            "Feature X",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 231,
+        "name": "User 231",
+        "email": "user231@email.com",
+        "last_login_date": "2024-11-04",
+        "number_of_logins": 137,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 575,
+        "features_used": [
+            "Feature X",
+            "Feature X",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 232,
+        "name": "User 232",
+        "email": "user232@email.com",
+        "last_login_date": "2024-12-22",
+        "number_of_logins": 160,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 618,
+        "features_used": [
+            "Feature Y",
+            "Feature L",
+            "Feature X",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 233,
+        "name": "User 233",
+        "email": "user233@email.com",
+        "last_login_date": "2024-12-05",
+        "number_of_logins": 101,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 212,
+        "features_used": [
+            "Feature G",
+            "Feature H",
+            "Feature D",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 234,
+        "name": "User 234",
+        "email": "user234@email.com",
+        "last_login_date": "2024-12-10",
+        "number_of_logins": 72,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 563,
+        "features_used": [
+            "Feature E",
+            "Feature P",
+            "Feature G",
+            "Feature A",
+            "Feature D",
+            "Feature P",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 235,
+        "name": "User 235",
+        "email": "user235@email.com",
+        "last_login_date": "2024-10-07",
+        "number_of_logins": 120,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 233,
+        "features_used": [
+            "Feature R",
+            "Feature L",
+            "Feature D",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 236,
+        "name": "User 236",
+        "email": "user236@email.com",
+        "last_login_date": "2024-11-01",
+        "number_of_logins": 170,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 524,
+        "features_used": [
+            "Feature Y",
+            "Feature Z",
+            "Feature C",
+            "Feature R",
+            "Feature M",
+            "Feature O",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 237,
+        "name": "User 237",
+        "email": "user237@email.com",
+        "last_login_date": "2024-10-26",
+        "number_of_logins": 72,
+        "number_of_features_used": 5,
+        "time_spent_on_platform": 218,
+        "features_used": [
+            "Feature L",
+            "Feature Z",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 238,
+        "name": "User 238",
+        "email": "user238@email.com",
+        "last_login_date": "2024-12-30",
+        "number_of_logins": 114,
+        "number_of_features_used": 14,
+        "time_spent_on_platform": 767,
+        "features_used": [
+            "Feature T",
+            "Feature N",
+            "Feature T",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 239,
+        "name": "User 239",
+        "email": "user239@email.com",
+        "last_login_date": "2024-11-07",
+        "number_of_logins": 155,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 603,
+        "features_used": [
+            "Feature N",
+            "Feature F",
+            "Feature L",
+            "Feature J",
+            "Feature M"
+        ]
+    },
+    {
+        "id": 240,
+        "name": "User 240",
+        "email": "user240@email.com",
+        "last_login_date": "2024-09-13",
+        "number_of_logins": 192,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 735,
+        "features_used": [
+            "Feature F",
+            "Feature H",
+            "Feature X",
+            "Feature R",
+            "Feature Y",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 241,
+        "name": "User 241",
+        "email": "user241@email.com",
+        "last_login_date": "2024-10-13",
+        "number_of_logins": 144,
+        "number_of_features_used": 19,
+        "time_spent_on_platform": 362,
+        "features_used": [
+            "Feature T",
+            "Feature X",
+            "Feature O",
+            "Feature L",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 242,
+        "name": "User 242",
+        "email": "user242@email.com",
+        "last_login_date": "2025-02-19",
+        "number_of_logins": 54,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 718,
+        "features_used": [
+            "Feature M",
+            "Feature E",
+            "Feature P",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 243,
+        "name": "User 243",
+        "email": "user243@email.com",
+        "last_login_date": "2024-09-22",
+        "number_of_logins": 174,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 657,
+        "features_used": [
+            "Feature H",
+            "Feature M",
+            "Feature R",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 244,
+        "name": "User 244",
+        "email": "user244@email.com",
+        "last_login_date": "2025-02-07",
+        "number_of_logins": 103,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 472,
+        "features_used": [
+            "Feature I",
+            "Feature O",
+            "Feature G",
+            "Feature I",
+            "Feature X",
+            "Feature K",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 245,
+        "name": "User 245",
+        "email": "user245@email.com",
+        "last_login_date": "2024-10-05",
+        "number_of_logins": 111,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 412,
+        "features_used": [
+            "Feature U",
+            "Feature G",
+            "Feature D",
+            "Feature W",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 246,
+        "name": "User 246",
+        "email": "user246@email.com",
+        "last_login_date": "2024-11-05",
+        "number_of_logins": 95,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 273,
+        "features_used": [
+            "Feature I",
+            "Feature Y",
+            "Feature K",
+            "Feature I",
+            "Feature J",
+            "Feature Y",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 247,
+        "name": "User 247",
+        "email": "user247@email.com",
+        "last_login_date": "2024-08-27",
+        "number_of_logins": 54,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 748,
+        "features_used": [
+            "Feature G",
+            "Feature T",
+            "Feature B",
+            "Feature J",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 248,
+        "name": "User 248",
+        "email": "user248@email.com",
+        "last_login_date": "2024-08-12",
+        "number_of_logins": 145,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 694,
+        "features_used": [
+            "Feature H",
+            "Feature J",
+            "Feature P",
+            "Feature R",
+            "Feature S",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 249,
+        "name": "User 249",
+        "email": "user249@email.com",
+        "last_login_date": "2024-09-28",
+        "number_of_logins": 172,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 763,
+        "features_used": [
+            "Feature F",
+            "Feature D",
+            "Feature N",
+            "Feature Y",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 250,
+        "name": "User 250",
+        "email": "user250@email.com",
+        "last_login_date": "2025-01-08",
+        "number_of_logins": 83,
+        "number_of_features_used": 9,
+        "time_spent_on_platform": 327,
+        "features_used": [
+            "Feature M",
+            "Feature R",
+            "Feature Y",
+            "Feature K",
+            "Feature P",
+            "Feature B",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 251,
+        "name": "User 251",
+        "email": "user251@email.com",
+        "last_login_date": "2025-02-10",
+        "number_of_logins": 156,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 706,
+        "features_used": [
+            "Feature C",
+            "Feature K",
+            "Feature S",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 252,
+        "name": "User 252",
+        "email": "user252@email.com",
+        "last_login_date": "2024-09-30",
+        "number_of_logins": 86,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 254,
+        "features_used": [
+            "Feature F",
+            "Feature N",
+            "Feature Q",
+            "Feature B",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 253,
+        "name": "User 253",
+        "email": "user253@email.com",
+        "last_login_date": "2024-11-13",
+        "number_of_logins": 100,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 634,
+        "features_used": [
+            "Feature U",
+            "Feature F",
+            "Feature Q",
+            "Feature U",
+            "Feature L",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 254,
+        "name": "User 254",
+        "email": "user254@email.com",
+        "last_login_date": "2024-10-01",
+        "number_of_logins": 111,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 312,
+        "features_used": [
+            "Feature C",
+            "Feature A",
+            "Feature G",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 255,
+        "name": "User 255",
+        "email": "user255@email.com",
+        "last_login_date": "2024-09-28",
+        "number_of_logins": 142,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 771,
+        "features_used": [
+            "Feature M",
+            "Feature D",
+            "Feature G",
+            "Feature F"
+        ]
+    },
+    {
+        "id": 256,
+        "name": "User 256",
+        "email": "user256@email.com",
+        "last_login_date": "2024-12-24",
+        "number_of_logins": 152,
+        "number_of_features_used": 6,
+        "time_spent_on_platform": 632,
+        "features_used": [
+            "Feature Q",
+            "Feature H",
+            "Feature E",
+            "Feature R",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 257,
+        "name": "User 257",
+        "email": "user257@email.com",
+        "last_login_date": "2024-11-27",
+        "number_of_logins": 65,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 482,
+        "features_used": [
+            "Feature A",
+            "Feature B",
+            "Feature W",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 258,
+        "name": "User 258",
+        "email": "user258@email.com",
+        "last_login_date": "2024-12-23",
+        "number_of_logins": 79,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 266,
+        "features_used": [
+            "Feature F",
+            "Feature Z",
+            "Feature E",
+            "Feature L",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 259,
+        "name": "User 259",
+        "email": "user259@email.com",
+        "last_login_date": "2024-08-06",
+        "number_of_logins": 172,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 281,
+        "features_used": [
+            "Feature D",
+            "Feature N",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 260,
+        "name": "User 260",
+        "email": "user260@email.com",
+        "last_login_date": "2024-11-25",
+        "number_of_logins": 97,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 268,
+        "features_used": [
+            "Feature M",
+            "Feature K",
+            "Feature P",
+            "Feature X",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 261,
+        "name": "User 261",
+        "email": "user261@email.com",
+        "last_login_date": "2024-12-26",
+        "number_of_logins": 146,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 618,
+        "features_used": [
+            "Feature N",
+            "Feature F",
+            "Feature W",
+            "Feature F",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 262,
+        "name": "User 262",
+        "email": "user262@email.com",
+        "last_login_date": "2024-12-10",
+        "number_of_logins": 120,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 415,
+        "features_used": [
+            "Feature M",
+            "Feature H",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 263,
+        "name": "User 263",
+        "email": "user263@email.com",
+        "last_login_date": "2024-10-11",
+        "number_of_logins": 133,
+        "number_of_features_used": 16,
+        "time_spent_on_platform": 683,
+        "features_used": [
+            "Feature D",
+            "Feature X",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 264,
+        "name": "User 264",
+        "email": "user264@email.com",
+        "last_login_date": "2024-12-17",
+        "number_of_logins": 97,
+        "number_of_features_used": 13,
+        "time_spent_on_platform": 671,
+        "features_used": [
+            "Feature D",
+            "Feature L",
+            "Feature Y",
+            "Feature U",
+            "Feature Z",
+            "Feature Q",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 265,
+        "name": "User 265",
+        "email": "user265@email.com",
+        "last_login_date": "2024-08-04",
+        "number_of_logins": 162,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 745,
+        "features_used": [
+            "Feature B",
+            "Feature U",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 266,
+        "name": "User 266",
+        "email": "user266@email.com",
+        "last_login_date": "2024-12-29",
+        "number_of_logins": 52,
+        "number_of_features_used": 12,
+        "time_spent_on_platform": 789,
+        "features_used": [
+            "Feature Q",
+            "Feature P",
+            "Feature B",
+            "Feature S",
+            "Feature H",
+            "Feature D"
+        ]
+    },
+    {
+        "id": 267,
+        "name": "User 267",
+        "email": "user267@email.com",
+        "last_login_date": "2024-10-29",
+        "number_of_logins": 69,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 632,
+        "features_used": [
+            "Feature G",
+            "Feature Y",
+            "Feature M",
+            "Feature X",
+            "Feature B",
+            "Feature G",
+            "Feature S"
+        ]
+    },
+    {
+        "id": 268,
+        "name": "User 268",
+        "email": "user268@email.com",
+        "last_login_date": "2024-10-12",
+        "number_of_logins": 163,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 460,
+        "features_used": [
+            "Feature C",
+            "Feature E",
+            "Feature S",
+            "Feature M",
+            "Feature I",
+            "Feature T",
+            "Feature U"
+        ]
+    },
+    {
+        "id": 269,
+        "name": "User 269",
+        "email": "user269@email.com",
+        "last_login_date": "2024-11-14",
+        "number_of_logins": 139,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 786,
+        "features_used": [
+            "Feature R",
+            "Feature F",
+            "Feature F",
+            "Feature N",
+            "Feature G"
+        ]
+    },
+    {
+        "id": 270,
+        "name": "User 270",
+        "email": "user270@email.com",
+        "last_login_date": "2024-10-07",
+        "number_of_logins": 108,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 234,
+        "features_used": [
+            "Feature K",
+            "Feature F",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 271,
+        "name": "User 271",
+        "email": "user271@email.com",
+        "last_login_date": "2025-01-06",
+        "number_of_logins": 156,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 483,
+        "features_used": [
+            "Feature Y",
+            "Feature Z",
+            "Feature C",
+            "Feature E",
+            "Feature Z",
+            "Feature Z"
+        ]
+    },
+    {
+        "id": 272,
+        "name": "User 272",
+        "email": "user272@email.com",
+        "last_login_date": "2024-08-11",
+        "number_of_logins": 85,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 338,
+        "features_used": [
+            "Feature V",
+            "Feature B",
+            "Feature H",
+            "Feature M",
+            "Feature P",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 273,
+        "name": "User 273",
+        "email": "user273@email.com",
+        "last_login_date": "2024-08-09",
+        "number_of_logins": 161,
+        "number_of_features_used": 21,
+        "time_spent_on_platform": 502,
+        "features_used": [
+            "Feature P",
+            "Feature F",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 274,
+        "name": "User 274",
+        "email": "user274@email.com",
+        "last_login_date": "2024-10-06",
+        "number_of_logins": 91,
+        "number_of_features_used": 4,
+        "time_spent_on_platform": 707,
+        "features_used": [
+            "Feature A",
+            "Feature J",
+            "Feature H",
+            "Feature A",
+            "Feature S",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 275,
+        "name": "User 275",
+        "email": "user275@email.com",
+        "last_login_date": "2024-12-20",
+        "number_of_logins": 165,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 399,
+        "features_used": [
+            "Feature I",
+            "Feature T",
+            "Feature U",
+            "Feature J"
+        ]
+    },
+    {
+        "id": 276,
+        "name": "User 276",
+        "email": "user276@email.com",
+        "last_login_date": "2025-01-02",
+        "number_of_logins": 171,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 642,
+        "features_used": [
+            "Feature L",
+            "Feature G",
+            "Feature B",
+            "Feature S",
+            "Feature F",
+            "Feature D",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 277,
+        "name": "User 277",
+        "email": "user277@email.com",
+        "last_login_date": "2024-12-06",
+        "number_of_logins": 131,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 440,
+        "features_used": [
+            "Feature D",
+            "Feature P",
+            "Feature S",
+            "Feature K"
+        ]
+    },
+    {
+        "id": 278,
+        "name": "User 278",
+        "email": "user278@email.com",
+        "last_login_date": "2024-09-07",
+        "number_of_logins": 91,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 444,
+        "features_used": [
+            "Feature P",
+            "Feature K",
+            "Feature C",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 279,
+        "name": "User 279",
+        "email": "user279@email.com",
+        "last_login_date": "2024-08-09",
+        "number_of_logins": 195,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 419,
+        "features_used": [
+            "Feature A",
+            "Feature N",
+            "Feature F",
+            "Feature E",
+            "Feature V",
+            "Feature B",
+            "Feature P"
+        ]
+    },
+    {
+        "id": 280,
+        "name": "User 280",
+        "email": "user280@email.com",
+        "last_login_date": "2024-08-28",
+        "number_of_logins": 106,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 771,
+        "features_used": [
+            "Feature M",
+            "Feature L",
+            "Feature U",
+            "Feature J",
+            "Feature Z",
+            "Feature R",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 281,
+        "name": "User 281",
+        "email": "user281@email.com",
+        "last_login_date": "2024-11-11",
+        "number_of_logins": 117,
+        "number_of_features_used": 11,
+        "time_spent_on_platform": 580,
+        "features_used": [
+            "Feature J",
+            "Feature H",
+            "Feature Y",
+            "Feature P",
+            "Feature H",
+            "Feature L"
+        ]
+    },
+    {
+        "id": 282,
+        "name": "User 282",
+        "email": "user282@email.com",
+        "last_login_date": "2024-12-20",
+        "number_of_logins": 112,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 571,
+        "features_used": [
+            "Feature W",
+            "Feature E",
+            "Feature L",
+            "Feature C",
+            "Feature L",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 283,
+        "name": "User 283",
+        "email": "user283@email.com",
+        "last_login_date": "2025-01-23",
+        "number_of_logins": 88,
+        "number_of_features_used": 15,
+        "time_spent_on_platform": 553,
+        "features_used": [
+            "Feature I",
+            "Feature A",
+            "Feature Q",
+            "Feature U",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 284,
+        "name": "User 284",
+        "email": "user284@email.com",
+        "last_login_date": "2024-10-16",
+        "number_of_logins": 87,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 720,
+        "features_used": [
+            "Feature S",
+            "Feature I",
+            "Feature B"
+        ]
+    },
+    {
+        "id": 285,
+        "name": "User 285",
+        "email": "user285@email.com",
+        "last_login_date": "2024-09-03",
+        "number_of_logins": 192,
+        "number_of_features_used": 25,
+        "time_spent_on_platform": 502,
+        "features_used": [
+            "Feature U",
+            "Feature Y",
+            "Feature B",
+            "Feature S",
+            "Feature S",
+            "Feature W",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 286,
+        "name": "User 286",
+        "email": "user286@email.com",
+        "last_login_date": "2025-02-13",
+        "number_of_logins": 104,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 591,
+        "features_used": [
+            "Feature L",
+            "Feature C",
+            "Feature U",
+            "Feature J",
+            "Feature V",
+            "Feature T",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 287,
+        "name": "User 287",
+        "email": "user287@email.com",
+        "last_login_date": "2025-01-30",
+        "number_of_logins": 157,
+        "number_of_features_used": 26,
+        "time_spent_on_platform": 489,
+        "features_used": [
+            "Feature N",
+            "Feature H",
+            "Feature F",
+            "Feature D",
+            "Feature V",
+            "Feature W",
+            "Feature V"
+        ]
+    },
+    {
+        "id": 288,
+        "name": "User 288",
+        "email": "user288@email.com",
+        "last_login_date": "2025-01-04",
+        "number_of_logins": 175,
+        "number_of_features_used": 1,
+        "time_spent_on_platform": 460,
+        "features_used": [
+            "Feature F",
+            "Feature M",
+            "Feature D",
+            "Feature F",
+            "Feature X",
+            "Feature O",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 289,
+        "name": "User 289",
+        "email": "user289@email.com",
+        "last_login_date": "2024-09-15",
+        "number_of_logins": 163,
+        "number_of_features_used": 18,
+        "time_spent_on_platform": 624,
+        "features_used": [
+            "Feature E",
+            "Feature Z",
+            "Feature J",
+            "Feature O",
+            "Feature I"
+        ]
+    },
+    {
+        "id": 290,
+        "name": "User 290",
+        "email": "user290@email.com",
+        "last_login_date": "2024-09-14",
+        "number_of_logins": 62,
+        "number_of_features_used": 24,
+        "time_spent_on_platform": 622,
+        "features_used": [
+            "Feature M",
+            "Feature F",
+            "Feature O"
+        ]
+    },
+    {
+        "id": 291,
+        "name": "User 291",
+        "email": "user291@email.com",
+        "last_login_date": "2024-08-30",
+        "number_of_logins": 98,
+        "number_of_features_used": 3,
+        "time_spent_on_platform": 719,
+        "features_used": [
+            "Feature G",
+            "Feature W",
+            "Feature V",
+            "Feature X",
+            "Feature I",
+            "Feature W"
+        ]
+    },
+    {
+        "id": 292,
+        "name": "User 292",
+        "email": "user292@email.com",
+        "last_login_date": "2024-09-01",
+        "number_of_logins": 162,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 794,
+        "features_used": [
+            "Feature K",
+            "Feature S",
+            "Feature H",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 293,
+        "name": "User 293",
+        "email": "user293@email.com",
+        "last_login_date": "2025-01-21",
+        "number_of_logins": 189,
+        "number_of_features_used": 20,
+        "time_spent_on_platform": 726,
+        "features_used": [
+            "Feature Y",
+            "Feature L",
+            "Feature I",
+            "Feature X",
+            "Feature X"
+        ]
+    },
+    {
+        "id": 294,
+        "name": "User 294",
+        "email": "user294@email.com",
+        "last_login_date": "2024-10-13",
+        "number_of_logins": 74,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 584,
+        "features_used": [
+            "Feature X",
+            "Feature R",
+            "Feature Q",
+            "Feature N"
+        ]
+    },
+    {
+        "id": 295,
+        "name": "User 295",
+        "email": "user295@email.com",
+        "last_login_date": "2024-10-02",
+        "number_of_logins": 124,
+        "number_of_features_used": 17,
+        "time_spent_on_platform": 630,
+        "features_used": [
+            "Feature Y",
+            "Feature I",
+            "Feature A",
+            "Feature Z",
+            "Feature B",
+            "Feature L",
+            "Feature Y"
+        ]
+    },
+    {
+        "id": 296,
+        "name": "User 296",
+        "email": "user296@email.com",
+        "last_login_date": "2025-01-18",
+        "number_of_logins": 196,
+        "number_of_features_used": 2,
+        "time_spent_on_platform": 737,
+        "features_used": [
+            "Feature L",
+            "Feature Z",
+            "Feature I",
+            "Feature G",
+            "Feature Y",
+            "Feature L",
+            "Feature A"
+        ]
+    },
+    {
+        "id": 297,
+        "name": "User 297",
+        "email": "user297@email.com",
+        "last_login_date": "2025-01-19",
+        "number_of_logins": 168,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 452,
+        "features_used": [
+            "Feature G",
+            "Feature F",
+            "Feature T"
+        ]
+    },
+    {
+        "id": 298,
+        "name": "User 298",
+        "email": "user298@email.com",
+        "last_login_date": "2024-09-30",
+        "number_of_logins": 59,
+        "number_of_features_used": 10,
+        "time_spent_on_platform": 647,
+        "features_used": [
+            "Feature C",
+            "Feature V",
+            "Feature S",
+            "Feature Q"
+        ]
+    },
+    {
+        "id": 299,
+        "name": "User 299",
+        "email": "user299@email.com",
+        "last_login_date": "2025-01-11",
+        "number_of_logins": 121,
+        "number_of_features_used": 23,
+        "time_spent_on_platform": 543,
+        "features_used": [
+            "Feature H",
+            "Feature V",
+            "Feature D",
+            "Feature J",
+            "Feature H"
+        ]
+    },
+    {
+        "id": 300,
+        "name": "User 300",
+        "email": "user300@email.com",
+        "last_login_date": "2025-02-04",
+        "number_of_logins": 168,
+        "number_of_features_used": 8,
+        "time_spent_on_platform": 711,
+        "features_used": [
+            "Feature D",
+            "Feature R",
+            "Feature H",
+            "Feature L"
         ]
     }
 ]

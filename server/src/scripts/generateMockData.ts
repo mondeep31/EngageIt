@@ -17,7 +17,7 @@ const getRandomDate = () => {
 
 const mockUsers = [];
 
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= 300; i++) {
     const user = {
         id: i,
         name: `User ${i}`,

@@ -4,9 +4,9 @@ import { generateAIRecommendation, generateConsolidatedRecommendations } from ".
 
 
 const WEIGHTS = {
-    loginCount: 0.4,
+    loginCount: 0.2,
     featuresUsed: 0.3,
-    recency: 0.2
+    recency: 0.5
 };
 
 
