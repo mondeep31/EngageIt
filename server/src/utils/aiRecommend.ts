@@ -134,13 +134,13 @@ import dotenv from "dotenv";
 dotenv.config();
 import OpenAI from "openai";
 
-// const openai = new OpenAI({
-//     apiKey: process.env.OPENAI_API_KEY
-// });
-// console.log("Current env:", process.env.OPENAI_API_KEY);
 const openai = new OpenAI({
-    apiKey: "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"
+    apiKey: process.env.OPENAI_API_KEY
 });
+console.log("Current env:", process.env.OPENAI_API_KEY);
+// const openai = new OpenAI({
+//     apiKey: 
+// });
 
 const cleanAIResponse = (text: string): string => {
     return text
