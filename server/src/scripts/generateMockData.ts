@@ -17,15 +17,15 @@ const getRandomDate = () => {
 // Generate 100 mock users
 const mockUsers = [];
 
-for (let i = 1; i <= 100; i++) {
+for (let i = 1; i <= 10; i++) {
     const user = {
         id: i,
         name: `User ${i}`,
         email: `user${i}@email.com`,
         last_login_date: getRandomDate(), // Ensure recent login date
-        number_of_logins: Math.floor(Math.random() * 96) + 5,  // Random between 5-100
-        number_of_features_used: Math.floor(Math.random() * 191) + 10, // Random between 10-200
-        time_spent_on_platform: Math.floor(Math.random() * 551) + 50,  // Random between 50-600 minutes
+        number_of_logins: Math.floor(Math.random() *151) + 50,  // Random between 50-200
+        number_of_features_used: Math.floor(Math.random() * 26) + 1, // Random between 1-26
+        time_spent_on_platform: Math.floor(Math.random() * 601) + 200,  // Random between 200-800 mins
         features_used: Array.from({ length: Math.floor(Math.random() * 5) + 3 }, () => featuresList[Math.floor(Math.random() * featuresList.length)])
     };
 

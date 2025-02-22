@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import User from "../models/User";
-import { generateAIRecommendation } from "../utils/aiRecommend";
+import { generateAIRecommendation, generateConsolidatedRecommendations } from "../utils/aiRecommend";
 
 // Engagement Score Weights
 const WEIGHTS = {
@@ -8,6 +8,7 @@ const WEIGHTS = {
     featuresUsed: 0.3,
     recency: 0.2
 };
+
 
 // Function to calculate days since last login
 const daysSinceLastLogin = (lastLoginDate: Date): number => {
@@ -39,8 +40,7 @@ const determineRetentionCategory = (churnRisk: boolean, engagementScore: number)
     return "Medium";
 };
 
-// **📌 Improved AI Recommendation Logic**
-// **📌 Improved AI Recommendation Logic with 10+ Variations**
+
 
 
 // Function to calculate Active Users
@@ -99,7 +99,8 @@ export const getUsers = async (req: Request, res: Response) => {
                     engagementScore,
                     retentionCategory,
                     churnRisk,
-                    aiRecommendation
+                    aiRecommendation,
+                    last_login_date: user.last_login_date.toISOString().split("T")[0]
                 };
             })
         );
@@ -113,8 +114,16 @@ export const getUsers = async (req: Request, res: Response) => {
             churnPredictionList: processedUsers.filter(user => user.churnRisk)
         };
 
-        // Compute AI Insights
         const { mostUsedFeatures, underperformingFeatures } = getFeatureUsageStats(users);
+
+        const consolidatedRecommendations = await generateConsolidatedRecommendations(
+            processedUsers,
+            mostUsedFeatures,
+            underperformingFeatures
+        );
+        
+
+
 
         res.json({
             overviewMetrics,
@@ -122,7 +131,7 @@ export const getUsers = async (req: Request, res: Response) => {
             aiInsights: {
                 mostUsedFeatures,
                 underperformingFeatures,
-                recommendations: processedUsers.map(user => user.aiRecommendation)
+                consolidatedRecommendations
             }
         });
     } catch (error) {
@@ -133,7 +142,7 @@ export const getUsers = async (req: Request, res: Response) => {
 
 
 
-// const generateAIRecommendation = (user: any, churnRisk: boolean, engagementScore: number): string => {
+
 //     if (churnRisk) {
 //         if (engagementScore < 10) return `🚨 Offer a free trial extension to ${user.name} (critical risk of churn).`;
 //         if (engagementScore < 20) return `🎯 Provide a step-by-step tutorial to ${user.name} (very low engagement).`;
