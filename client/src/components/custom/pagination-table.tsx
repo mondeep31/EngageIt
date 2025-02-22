@@ -13,12 +13,18 @@ export default function PaginationTable({ table, data }: any) {
       <div className="rounded-lg bg-white px-3 py-[7px] text-xs font-medium text-[#707079] shadow-sm">
         Showing&nbsp;
         <span className="text-black">
-          &nbsp;
-          {table.getRowModel().rows.length}
+          {table.getState().pagination.pageIndex *
+            table.getState().pagination.pageSize +
+            1}{" "}
+          -{" "}
+          {Math.min(
+            (table.getState().pagination.pageIndex + 1) *
+              table.getState().pagination.pageSize,
+            data.length
+          )}
         </span>
         &nbsp;of&nbsp;
-        <span className="text-black">{data.length}</span>
-         Entries
+        <span className="text-black">{data.length}</span> Entries
       </div>
       <div className="rounded-lg shadow-sm">
         <Pagination>
@@ -32,7 +38,6 @@ export default function PaginationTable({ table, data }: any) {
             {Array.from({ length: table.getPageCount() }, (_, index) => (
               <PaginationItem key={index}>
                 <PaginationLink
-                  href="#"
                   isActive={index === table.getState().pagination.pageIndex}
                   onClick={() => table.setPageIndex(index)}
                 >
@@ -45,7 +50,6 @@ export default function PaginationTable({ table, data }: any) {
               <PaginationNext
                 onClick={() => table.nextPage()}
                 disabled={!table.getCanNextPage()}
-                href="#"
               />
             </PaginationItem>
           </PaginationContent>

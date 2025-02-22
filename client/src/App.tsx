@@ -1,14 +1,13 @@
-import Dashboard from "./components/Dashboard";
-import SidebarComp from "./components/Sidebar";
+import { Route, Routes } from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import UserTablePage from "./pages/UserTable";
 
 const App = () => {
   return (
-    <div className="flex h-screen">
-      <SidebarComp />
-      <div className="flex-1 overflow-y-auto">
-        <Dashboard />
-      </div>
-    </div>
+    <Routes>
+      <Route path="/" element={<HomePage />} />
+      <Route path="/table" element={<UserTablePage />} />
+    </Routes>
   );
 };
 
