@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import User from "../models/User";
 import { generateAIRecommendation, generateConsolidatedRecommendations } from "../utils/aiRecommend";
 
-// Engagement Score Weights
+
 const WEIGHTS = {
     loginCount: 0.4,
     featuresUsed: 0.3,
@@ -10,14 +10,14 @@ const WEIGHTS = {
 };
 
 
-// Function to calculate days since last login
+
 const daysSinceLastLogin = (lastLoginDate: Date): number => {
     const today = new Date();
     const lastLogin = new Date(lastLoginDate);
     return Math.ceil((today.getTime() - lastLogin.getTime()) / (1000 * 60 * 60 * 24));
 };
 
-// Function to calculate Engagement Score
+
 const calculateEngagementScore = (user: any): number => {
     const recencyScore = 1 / (1 + daysSinceLastLogin(user.last_login_date));
     const engagementScore =
@@ -28,12 +28,12 @@ const calculateEngagementScore = (user: any): number => {
     return Math.min(100, Math.max(0, Math.round(engagementScore)));
 };
 
-// Function to determine Churn Risk
+
 const calculateChurnRisk = (lastLoginDate: Date, engagementScore: number): boolean => {
     return daysSinceLastLogin(lastLoginDate) > 30 || engagementScore < 40;
 };
 
-// Function to determine Retention Category
+
 const determineRetentionCategory = (churnRisk: boolean, engagementScore: number): string => {
     if (churnRisk) return "Low";
     if (engagementScore > 70) return "High";
@@ -43,18 +43,18 @@ const determineRetentionCategory = (churnRisk: boolean, engagementScore: number)
 
 
 
-// Function to calculate Active Users
+
 const calculateActiveUsers = (users: any[], days: number): number => {
     return users.filter(user => daysSinceLastLogin(user.last_login_date) <= days).length;
 };
 
-// Function to calculate Retention Rate
+
 const calculateRetentionRate = (users: any[], period: number): number => {
     const returningUsers = users.filter(user => daysSinceLastLogin(user.last_login_date) <= period).length;
     return Math.round((returningUsers / users.length) * 100);
 };
 
-// Function to get most-used and least-used features
+
 const getFeatureUsageStats = (users: any[]) => {
     let featureUsage: Record<string, number> = {};
     users.forEach(user => {
@@ -70,24 +70,24 @@ const getFeatureUsageStats = (users: any[]) => {
     };
 };
 
-// Fetch users & compute engagement analytics
+
 export const getUsers = async (req: Request, res: Response) => {
     try {
         let users = await User.find();
 
-        // Process users asynchronously for AI recommendations
+
         const processedUsers = await Promise.all(
             users.map(async (user) => {
                 const engagementScore = calculateEngagementScore(user);
                 const churnRisk = calculateChurnRisk(user.last_login_date, engagementScore);
                 const retentionCategory = determineRetentionCategory(churnRisk, engagementScore);
 
-                // AI API Call (Handle Errors)
+
                 let aiRecommendation;
                 try {
                     aiRecommendation = await generateAIRecommendation(user, churnRisk, engagementScore);
                 } catch (err) {
-                    console.error("❌ AI Recommendation Failed for user:", user.name, err);
+                    console.error(" AI Recommendation Failed for user:", user.name, err);
                     aiRecommendation = "Default recommendation: Increase engagement activities.";
                 }
 
@@ -105,7 +105,7 @@ export const getUsers = async (req: Request, res: Response) => {
             })
         );
 
-        // Compute Overview Metrics
+
         const overviewMetrics = {
             dailyActiveUsers: calculateActiveUsers(users, 1),
             weeklyActiveUsers: calculateActiveUsers(users, 7),
@@ -135,7 +135,7 @@ export const getUsers = async (req: Request, res: Response) => {
             }
         });
     } catch (error) {
-        console.error("❌ Server Error:", error);
+        console.error("Server Error:", error);
         res.status(500).json({ message: "Server Error" });
     }
 };

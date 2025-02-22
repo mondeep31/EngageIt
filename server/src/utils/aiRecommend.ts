@@ -21,13 +21,13 @@ export const generateConsolidatedRecommendations = async (
 ): Promise<string> => {
     try {
         const prompt = `[INST] Platform Analytics Summary:
-- Most Used Features: ${mostUsedFeatures.join(", ")}
-- Underperforming Features: ${underperformingFeatures.join(", ")}
-- Total Users: ${users.length}
-- Users at Risk: ${users.filter(u => u.churnRisk).length}
-- Average Engagement: ${users.reduce((acc, u) => acc + u.engagementScore, 0) / users.length}
+    - Most Used Features: ${mostUsedFeatures.join(", ")}
+    - Underperforming Features: ${underperformingFeatures.join(", ")}
+    - Total Users: ${users.length}
+    - Users at Risk: ${users.filter(u => u.churnRisk).length}
+    - Average Engagement: ${users.reduce((acc, u) => acc + u.engagementScore, 0) / users.length}
 
-Based on this platform-wide data, provide exactly 2 high-impact strategic recommendations to improve overall user engagement and retention. Be specific and concise. [/INST]`;
+    Based on this platform-wide data, provide exactly 2 high-impact strategic recommendations to improve overall user engagement and retention. Be specific and concise. [/INST]`;
 
         const response = await fetch(HUGGINGFACE_API_URL, {
             method: "POST",
@@ -49,7 +49,7 @@ Based on this platform-wide data, provide exactly 2 high-impact strategic recomm
         const data = (await response.json()) as HuggingFaceResponse;
 
         if ("error" in data) {
-            console.error("❌ Hugging Face API Error:", data.error);
+            console.error(" Hugging Face API Error:", data.error);
             return "AI service is currently unavailable. Please try again later.";
         }
 
@@ -66,7 +66,7 @@ Based on this platform-wide data, provide exactly 2 high-impact strategic recomm
 
         return "No consolidated recommendations available.";
     } catch (error) {
-        console.error("❌ API Request Failed:", error);
+        console.error(" API Request Failed:", error);
         return "Error generating consolidated recommendations.";
     }
 };
@@ -75,12 +75,12 @@ Based on this platform-wide data, provide exactly 2 high-impact strategic recomm
 export const generateAIRecommendation = async (user: any, churnRisk: boolean, engagementScore: number): Promise<string> => {
     try {
         const prompt = `[INST] User data:
-- Name: ${user.name}
-- Engagement Score: ${engagementScore}/100
-- Features Used: ${user.features_used.join(", ")}
-- Churn Risk: ${churnRisk ? "High" : "Low"}
+    - Name: ${user.name}
+    - Engagement Score: ${engagementScore}/100
+    - Features Used: ${user.features_used.join(", ")}
+    - Churn Risk: ${churnRisk ? "High" : "Low"}
 
-Provide exactly 3 specific, high-impact actions to increase engagement. Be direct and concise. [/INST]`;
+    Provide exactly 3 specific, high-impact actions to increase engagement. Be direct and concise. [/INST]`;
 
         const response = await fetch(HUGGINGFACE_API_URL, {
             method: "POST",
@@ -102,15 +102,15 @@ Provide exactly 3 specific, high-impact actions to increase engagement. Be direc
         const data = (await response.json()) as HuggingFaceResponse;
 
         if ("error" in data) {
-            console.error("❌ Hugging Face API Error:", data.error);
+            console.error(" Hugging Face API Error:", data.error);
             return "AI service is currently unavailable. Please try again later.";
         }
 
         if (Array.isArray(data) && data.length > 0 && "generated_text" in data[0]) {
-            // Extract only the generated response, removing the prompt
+            // extract the response without the prompt
             let text = data[0].generated_text;
             
-            // Remove the instruction tags and prompt using a more compatible regex
+  
             text = text.replace(/\[INST\][\s\S]*?\[\/INST\]/, '');
             
             // Clean up the response
@@ -124,7 +124,7 @@ Provide exactly 3 specific, high-impact actions to increase engagement. Be direc
 
         return "No recommendation available.";
     } catch (error) {
-        console.error("❌ API Request Failed:", error);
+        console.error(" API Request Failed:", error);
         return "Error generating AI recommendation.";
     }
 };

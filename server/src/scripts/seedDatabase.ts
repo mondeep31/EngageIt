@@ -21,7 +21,7 @@ const seedData = async () => {
 
         // Insert new data
         const result = await User.insertMany(usersData);
-        console.log("✅ Inserted Users:", result.length);
+        console.log(" Inserted Users:", result.length);
         // console.log("120 Users Seeded Successfully");
 
         // Exit process after seeding
