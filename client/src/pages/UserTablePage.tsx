@@ -4,6 +4,9 @@ import UserTable from "@/components/UserTable";
 import { Metrics, User, AIInsights } from "@/types";
 import { useEffect, useState } from "react";
 
+const CACHE_KEY = "dashboard_data";
+const CACHE_EXPIRY = 5000 * 60 * 1000; // 5000 minutes
+
 const UserTablePage = () => {
   const [data, setData] = useState<{
     overviewMetrics: Metrics;
@@ -12,8 +15,23 @@ const UserTablePage = () => {
   } | null>(null);
 
   useEffect(() => {
+    const cachedData = localStorage.getItem(CACHE_KEY);
+    if (cachedData) {
+      const parsedData = JSON.parse(cachedData);
+      const isFresh =
+        new Date().getTime() - parsedData.timestamp < CACHE_EXPIRY;
+      if (isFresh) {
+        setData(parsedData.data);
+        return;
+      }
+    }
+
     fetchUserData().then((data) => {
       setData(data);
+      localStorage.setItem(
+        CACHE_KEY,
+        JSON.stringify({ data, timestamp: new Date().getTime() })
+      );
     });
   }, []);
 

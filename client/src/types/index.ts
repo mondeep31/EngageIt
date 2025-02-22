@@ -11,6 +11,7 @@ export interface User {
     retentionCategory: "High" | "Medium" | "Low";
     churnRisk: boolean;
     aiRecommendation: string;
+    features_used: string[];
   }
   
 export  interface Metrics {
