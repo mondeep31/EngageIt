@@ -1,3 +1,4 @@
+import PageHeading from "@/components/layout/page-heading";
 import BarChartComponent from "../components/charts/BarChart";
 import HorizontalBarChartComponent from "../components/charts/HorizontalBarChart";
 import LineChartComponent from "../components/charts/LineChart";
@@ -18,10 +19,17 @@ const ChartContainer = ({
 );
 
 const Charts = () => (
-  <div className="p-6 bg-gray-50 min-h-screen">
-    <h1 className="text-2xl font-bold mb-6 text-gray-900">
-      Analytics Dashboard
-    </h1>
+  <div className="min-h-screen bg-gray-50/50 p-8">
+    <PageHeading heading="Analytics Dashboard" />
+      <span className="absolute -left-4 -right-4 -top-8 -z-[1]">
+        <img
+          src="/images/home-bg.png"
+          width={1180}
+          height={200}
+          alt="home-bg"
+          className="h-52 w-full xl:h-auto"
+        />
+      </span>
 
     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
       <ChartContainer title="User Activity Metrics (DAU/WAU/MAU)">
