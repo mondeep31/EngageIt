@@ -6,7 +6,7 @@ import path from "path";
 import connectDB from "../config/db";  
 import User from "../models/User";
 
-const filePath = path.join(__dirname, "../data/mockUsers.json");
+const filePath = path.join(__dirname, "../data/initialData.json");
 const usersData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
 const seedData = async () => {

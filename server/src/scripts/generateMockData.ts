@@ -33,7 +33,7 @@ for (let i = 1; i <= 300; i++) {
 }
 
 
-const filePath = path.join(__dirname, "../data/mockUsers.json");
+const filePath = path.join(__dirname, "../data/initialData.json");
 fs.writeFileSync(filePath, JSON.stringify(mockUsers, null, 4));
 
 console.log(` Mock data generated successfully: ${filePath}`);

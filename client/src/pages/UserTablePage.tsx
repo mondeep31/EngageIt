@@ -1,10 +1,10 @@
 import { fetchUserData } from "@/api/userData";
-import SidebarComp from "@/components/Sidebar";
+import PageHeading from "@/components/layout/page-heading";
 import UserTable from "@/components/UserTable";
 import { Metrics, User, AIInsights } from "@/types";
 import { useEffect, useState } from "react";
 
-const CACHE_KEY = "dashboard_data_cache3";
+const CACHE_KEY = "dashboard_data_cache7";
 const CACHE_EXPIRY = 50000 * 60 * 1000; // 50000 minutes
 
 const UserTablePage = () => {
@@ -37,9 +37,18 @@ const UserTablePage = () => {
 
   if (!data) return <p>Loading...</p>;
   return (
-    <div className="flex h-screen">
-      <SidebarComp />
-      <div className="min-h-screen bg-gray-50/50 p-8 flex-1 overflow-y-auto">
+    <div className="min-h-screen bg-gray-50/50 p-8">
+      <PageHeading heading="Customer Table" />
+      <span className="absolute -left-4 -right-4 -top-8 -z-[1]">
+        <img
+          src="/images/home-bg.png"
+          width={1180}
+          height={200}
+          alt="home-bg"
+          className="h-52 w-full xl:h-auto"
+        />
+      </span>
+      <div className="flex flex-col gap-6">
         <UserTable users={data.users} />
       </div>
     </div>
