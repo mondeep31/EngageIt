@@ -2,12 +2,12 @@ import PageHeading from "@/components/layout/page-heading";
 import { useEffect, useState } from "react";
 import { AIInsights, Metrics, User } from "@/types";
 import { fetchUserData } from "@/api/userData";
-import VisualizationChart from "@/components/VisualizationChart";
+
 import MetricsOverview from "@/components/MetricOverview";
 import UserTable from "@/components/UserTable";
 import AIRecommendations from "./ai-recommendations";
 
-const CACHE_KEY = "dashboard_data_cache7";
+const CACHE_KEY = "dashboard_data_cache100";
 const CACHE_EXPIRY = 50000 * 60 * 1000; //5 mins
 
 const Dashboard = () => {
@@ -53,8 +53,6 @@ const Dashboard = () => {
         />
       </span>
       <div className="flex flex-col gap-6">
-        <VisualizationChart />
-
         <MetricsOverview overviewMetrics={data.overviewMetrics} />
         <AIRecommendations aiInsights={data.aiInsights} />
         <UserTable users={data.users} />

@@ -13,7 +13,7 @@ const WEIGHTS = {
 let processedData: any;
 try {
     const processedDataPath = path.join(__dirname, '..', 'data', 'processedData.json');
-    console.log('Loading processed data from:', processedDataPath);
+
     const rawData = fs.readFileSync(processedDataPath, 'utf-8');
     processedData = JSON.parse(rawData);
     if (!processedData || !processedData.overviewMetrics || !processedData.overviewMetrics.churnPredictionList) {
@@ -42,15 +42,14 @@ const calculateEngagementScore = (user: any): number => {
 };
 
 const calculateChurnRisk = (lastLoginDate: Date, engagementScore: number): boolean => {
-    return daysSinceLastLogin(lastLoginDate) > 30 || engagementScore < 40;
+    return daysSinceLastLogin(lastLoginDate) > 30 && engagementScore < 40;
 };
 
 const determineRetentionCategory = (churnRisk: boolean, engagementScore: number): string => {
-    if (churnRisk) return "Low";
     if (engagementScore > 70) return "High";
-    return "Medium";
+    if (engagementScore > 40) return "Medium";
+    return "Low";
 };
-
 const calculateActiveUsers = (users: any[], days: number): number => {
     return users.filter(user => daysSinceLastLogin(user.last_login_date) <= days).length;
 };
@@ -138,6 +137,8 @@ export const getUsers = async (req: Request, res: Response) => {
     try {
         let users = await User.find();
 
+
+
         const processedUsers = await Promise.all(
             users.map(async (user) => {
                 const engagementScore = calculateEngagementScore(user);
@@ -168,7 +169,7 @@ export const getUsers = async (req: Request, res: Response) => {
             monthlyActiveUsers: calculateActiveUsers(users, 30),
             retentionRate: calculateRetentionRate(users, 30),
             collectiveEngagementScore,
-            churnPredictionList: processedUsers.filter(user => user.churnRisk),
+            churnPredictionList: processedUsers,
             totalUsers: users.length,
             activeUsers: calculateActiveUsers(users, 30),
             inactiveUsers: users.length - calculateActiveUsers(users, 30)

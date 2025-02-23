@@ -4,7 +4,7 @@ import UserTable from "@/components/UserTable";
 import { Metrics, User, AIInsights } from "@/types";
 import { useEffect, useState } from "react";
 
-const CACHE_KEY = "dashboard_data_cache7";
+const CACHE_KEY = "dashboard_data_cache100";
 const CACHE_EXPIRY = 50000 * 60 * 1000; // 50000 minutes
 
 const UserTablePage = () => {
